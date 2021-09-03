@@ -13,12 +13,14 @@
     "esm/"
   ],
   "scripts": {
+    "test": "tsc",
     "lint": "eslint . && prettier --check .",
     "format": "eslint --fix . && prettier --write .",
     "build:cjs": "tsc",
     "build:es": "tsc -m esNext --outDir esm",
     "build": "yarn build:cjs && yarn build:es",
-    "prepublishOnly": "npm run build"
+    "prepublishOnly": "npm run build",
+    "prepare": "husky install"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^4.30.0",
@@ -26,7 +28,8 @@
     "eslint": "^7.32.0",
     "eslint-config-prettier": "^8.3.0",
     "prettier": "^2.3.2",
-    "typescript": "4.4.2"
+    "typescript": "4.4.2",
+    "husky": "^7.0.0"
   },
   "peerDependencies": {
     "typescript": "4.4.2"
