@@ -1,0 +1,27 @@
+{
+  "version": "1.0.0",
+  "name": "@asset-project/token-list",
+  "description": "test NPM package",
+  "author": "@asset-project",
+  "license": "MIT",
+  "main": "index.js",
+  "module": "esm/index.js",
+  "types": "lib/index.d.ts",
+  "typings": "lib/index.d.ts",
+  "files": [
+    "lib/",
+    "esm/"
+  ],
+  "scripts": {
+    "build:cjs": "tsc",
+    "build:es": "tsc -m esNext --outDir esm",
+    "build": "yarn build:cjs && yarn build:es",
+    "prepublishOnly": "npm run build"
+  },
+  "devDependencies": {
+    "typescript": "4.4.2"
+  },
+  "peerDependencies": {
+    "typescript": "4.4.2"
+  }
+}
