@@ -1,0 +1,236 @@
+[
+  {
+    "chainId": 1,
+    "type": "ERC20",
+    "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+  },
+  {
+    "chainId": 1,
+    "type": "ERC20",
+    "address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+  },
+  {
+    "chainId": 1,
+    "type": "ERC20",
+    "address": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52",
+    "name": "BNB",
+    "symbol": "BNB",
+    "decimals": 18,
+    "logoURI": "https://etherscan.io/token/images/bnb_28_2.png"
+  },
+  {
+    "chainId": 1,
+    "type": "ERC20",
+    "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "decimals": 6,
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+  },
+  {
+    "chainId": 1,
+    "type": "ERC20",
+    "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+  },
+  {
+    "chainId": 1,
+    "type": "ERC20",
+    "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+    "name": "Uniswap",
+    "symbol": "UNI",
+    "decimals": 18,
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984/logo.png"
+  },
+  {
+    "chainId": 1,
+    "type": "ERC20",
+    "address": "0x514910771AF9Ca656af840dff83E8264EcF986CA",
+    "name": "ChainLink",
+    "symbol": "LINK",
+    "decimals": 18,
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
+  },
+  {
+    "chainId": 1,
+    "type": "ERC20",
+    "address": "0x9BE89D2a4cd102D8Fecc6BF9dA793be995C22541",
+    "name": "Binance Wrapped BTC",
+    "symbol": "BBTC",
+    "decimals": 8,
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x9BE89D2a4cd102D8Fecc6BF9dA793be995C22541/logo.png"
+  },
+  {
+    "chainId": 1,
+    "type": "ERC20",
+    "address": "0xd850942ef8811f2a866692a623011bde52a462c1",
+    "name": "VeChain",
+    "symbol": "VEN",
+    "decimals": 18,
+    "logoURI": ""
+  },
+  {
+    "chainId": 1,
+    "type": "ERC20",
+    "address": "0x6e1A19F235bE7ED8E3369eF73b196C07257494DE",
+    "name": "Wrapped Filecoin",
+    "symbol": "WFIL",
+    "decimals": 18,
+    "logoURI": ""
+  },
+  {
+    "chainId": 1,
+    "type": "ERC20",
+    "address": "0x4ddc2d193948926d02f9b1fe9e1daa0718270ed5",
+    "name": "Compound Ether",
+    "symbol": "cETH",
+    "decimals": 8,
+    "logoURI": ""
+  },
+  {
+    "chainId": 1,
+    "type": "ERC20",
+    "address": "0x6b175474e89094c44da98b954eedeac495271d0f",
+    "name": "Dai Stablecoin",
+    "symbol": "DAI",
+    "decimals": 18,
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+  },
+  {
+    "chainId": 1,
+    "type": "ERC20",
+    "address": "0x39aa39c021dfbae8fac545936693ac917d5e7563",
+    "name": "Compound USD Coin",
+    "symbol": "cUSDC",
+    "decimals": 8,
+    "logoURI": ""
+  },
+  {
+    "chainId": 1,
+    "type": "ERC20",
+    "address": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84",
+    "name": "stETH",
+    "symbol": "stETH",
+    "decimals": 18,
+    "logoURI": ""
+  },
+  {
+    "chainId": 1,
+    "type": "ERC20",
+    "address": "0x7f39c581f595b53c5cb19bd0b3f8da6c935e2ca0",
+    "name": "Wrapped liquid staked Ether 2.0",
+    "symbol": "wstETH",
+    "decimals": 18,
+    "logoURI": ""
+  },
+  {
+    "chainId": 1,
+    "type": "ERC20",
+    "address": "0x5d3a536E4D6DbD6114cc1Ead35777bAB948E3643",
+    "name": "Compound Dai",
+    "symbol": "cDAI",
+    "decimals": 8,
+    "logoURI": ""
+  },
+  {
+    "chainId": 1,
+    "type": "ERC20",
+    "address": "0xc944e90c64b2c07662a292be6244bdf05cda44a7",
+    "name": "Graph Token",
+    "symbol": "GRT",
+    "decimals": 18,
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xc944E90C64B2c07662A292be6244BDf05Cda44a7/logo.png"
+  },
+  {
+    "chainId": 1,
+    "type": "ERC20",
+    "address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2",
+    "name": "Maker",
+    "symbol": "MKR",
+    "decimals": 18,
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x9f8F72aA9304c8B593d555F12eF6589cC3A579A2/logo.png"
+  },
+  {
+    "chainId": 1,
+    "type": "ERC20",
+    "address": "0xff20817765cb7f73d4bde2e66e067e58d11095c2",
+    "name": "Amp",
+    "symbol": "AMP",
+    "decimals": 18,
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xfF20817765cB7f73d4bde2e66e067E58D11095C2/logo.png"
+  },
+  {
+    "chainId": 1,
+    "type": "ERC20",
+    "address": "0xc00e94cb662c3520282e6f5717214004a7f26888",
+    "name": "Compound",
+    "symbol": "COMP",
+    "decimals": 18,
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xc00e94Cb662C3520282E6f5717214004A7f26888/logo.png"
+  },
+  {
+    "chainId": 1,
+    "type": "ERC20",
+    "address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+    "name": "SushiSwap",
+    "symbol": "SUSHI",
+    "decimals": 8,
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x6B3595068778DD592e39A122f4f5a5cF09C90fE2/logo.png"
+  },
+  {
+    "chainId": 1,
+    "type": "ERC20",
+    "address": "",
+    "name": "",
+    "symbol": "",
+    "decimals": 8,
+    "logoURI": ""
+  },
+  {
+    "chainId": 1,
+    "type": "ERC20",
+    "address": "",
+    "name": "",
+    "symbol": "",
+    "decimals": 8,
+    "logoURI": ""
+  },
+  {
+    "chainId": 1,
+    "type": "ERC20",
+    "address": "",
+    "name": "",
+    "symbol": "",
+    "decimals": 8,
+    "logoURI": ""
+  },
+  {
+    "chainId": 1,
+    "type": "ERC20",
+    "address": "",
+    "name": "",
+    "symbol": "",
+    "decimals": 8,
+    "logoURI": ""
+  },
+  {
+    "chainId": 1,
+    "type": "ERC20",
+    "address": "",
+    "name": "",
+    "symbol": "",
+    "decimals": 8,
+    "logoURI": ""
+  }
+]
