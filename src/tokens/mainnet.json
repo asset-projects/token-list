@@ -191,46 +191,244 @@
   {
     "chainId": 1,
     "type": "ERC20",
-    "address": "",
-    "name": "",
-    "symbol": "",
+    "address": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f",
+    "name": "Synthetix Network Token",
+    "symbol": "SNX",
+    "decimals": 18,
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets//logo.png"
+  },
+  {
+    "chainId": 1,
+    "type": "ERC20",
+    "address": "0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c",
+    "name": "EnjinCoin",
+    "symbol": "ENJ",
+    "decimals": 18,
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xF629cBd94d3791C9250152BD8dfBDF380E2a3B9c/logo.png"
+  },
+  {
+    "chainId": 1,
+    "type": "ERC20",
+    "address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e",
+    "name": "yearn.finance",
+    "symbol": "YFI",
+    "decimals": 18,
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e/logo.png"
+  },
+  {
+    "chainId": 1,
+    "type": "ERC20",
+    "address": "0x0d8775f648430679a709e98d2b0cb6250d2887ef",
+    "name": "Basic Attention Token",
+    "symbol": "BAT",
+    "decimals": 18,
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x0D8775F648430679A709E98d2b0Cb6250d2887EF/logo.png"
+  },
+  {
+    "chainId": 1,
+    "type": "ERC20",
+    "address": "0x1f573d6fb3f13d689ff844b4ce37794d79a7ff1c",
+    "name": "Bancor",
+    "symbol": "BNT",
+    "decimals": 18,
+    "logoURI": ""
+  },
+  {
+    "chainId": 1,
+    "type": "ERC20",
+    "address": "0xe41d2489571d322189246dafa5ebde1f4699f498",
+    "name": "0x Protocol Toke",
+    "symbol": "ZRX",
+    "decimals": 18,
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xE41d2489571d322189246DaFA5ebDe1F4699F498/logo.png"
+  },
+  {
+    "chainId": 1,
+    "type": "ERC20",
+    "address": "0xd26114cd6EE289AccF82350c8d8487fedB8A0C07",
+    "name": "OMG Network",
+    "symbol": "OMG",
+    "decimals": 18,
+    "logoURI": ""
+  },
+  {
+    "chainId": 1,
+    "type": "ERC20",
+    "address": "0x3845badAde8e6dFF049820680d1F14bD3903a5d0",
+    "name": "SAND",
+    "symbol": "SAND",
+    "decimals": 18,
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x3845badAde8e6dFF049820680d1F14bD3903a5d0/logo.png"
+  },
+  {
+    "chainId": 1,
+    "type": "ERC20",
+    "address": "0x111111111117dc0aa78b770fa6a738034120c302",
+    "name": "1INCH Token",
+    "symbol": "1INCH",
+    "decimals": 18,
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x111111111117dC0aa78b770fA6A738034120C302/logo.png"
+  },
+  {
+    "chainId": 1,
+    "type": "ERC20",
+    "address": "0xf650c3d88d12db855b8bf7d11be6c55a4e07dcc9",
+    "name": "Compound USDT",
+    "symbol": "cUSDT",
     "decimals": 8,
     "logoURI": ""
   },
   {
     "chainId": 1,
     "type": "ERC20",
-    "address": "",
-    "name": "",
-    "symbol": "",
+    "address": "0xeb4c2781e4eba804ce9a9803c67d0893436bb27d",
+    "name": "renBTC",
+    "symbol": "renBTC",
+    "decimals": 18,
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xEB4C2781e4ebA804CE9a9803C67d0893436bB27D/logo.png"
+  },
+  {
+    "chainId": 1,
+    "type": "ERC20",
+    "address": "0xbbbbca6a901c926f240b89eacb641d8aec7aeafd",
+    "name": "LoopringCoin V2",
+    "symbol": "LRC",
+    "decimals": 18,
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xBBbbCA6A901c926F240b89EacB641d8Aec7AEafD/logo.png"
+  },
+  {
+    "chainId": 1,
+    "type": "ERC20",
+    "address": "0x6810e776880c02933d47db1b9fc05908e5386b96",
+    "name": "Gnosis",
+    "symbol": "GNO",
+    "decimals": 18,
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x6810e776880C02933D47DB1b9fc05908e5386b96/logo.png"
+  },
+  {
+    "chainId": 1,
+    "type": "ERC20",
+    "address": "0x744d70fdbe2ba4cf95131626614a1763df805b9e",
+    "name": "StatusNetwork",
+    "symbol": "SNT",
+    "decimals": 18,
+    "logoURI": ""
+  },
+  {
+    "chainId": 1,
+    "type": "ERC20",
+    "address": "0x8207c1ffc5b6804f6024322ccf34f29c3541ae26",
+    "name": "Origin Token",
+    "symbol": "OGN",
+    "decimals": 18,
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x8207c1FfC5B6804F6024322CcF34F29c3541Ae26/logo.png"
+  },
+  {
+    "chainId": 1,
+    "type": "ERC20",
+    "address": "0x956F47F50A910163D8BF957Cf5846D573E7f87CA",
+    "name": "Fei USD",
+    "symbol": "FEI",
+    "decimals": 18,
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x956F47F50A910163D8BF957Cf5846D573E7f87CA/logo.png"
+  },
+  {
+    "chainId": 1,
+    "type": "ERC20",
+    "address": "0x69af81e73a73b40adf4f3d4223cd9b1ece623074",
+    "name": "Mask Network",
+    "symbol": "MASK",
+    "decimals": 18,
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x69af81e73A73B40adF4f3d4223Cd9b1ECE623074/logo.png"
+  },
+  {
+    "chainId": 1,
+    "type": "ERC20",
+    "address": "0xa117000000f279d81a1d3cc75430faa017fa5a2e",
+    "name": "Aragon Network Token",
+    "symbol": "ANT",
+    "decimals": 18,
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xa117000000f279D81A1D3cc75430fAA017FA5A2e/logo.png"
+  },
+  {
+    "chainId": 1,
+    "type": "ERC20",
+    "address": "0x6c28AeF8977c9B773996d0e8376d2EE379446F2f",
+    "name": "Quickswap",
+    "symbol": "QUICK",
+    "decimals": 18,
+    "logoURI": ""
+  },
+  {
+    "chainId": 1,
+    "type": "ERC20",
+    "address": "0x5a98fcbea516cf06857215779fd812ca3bef1b32",
+    "name": "Lido DAO Token",
+    "symbol": "LDO",
+    "decimals": 18,
+    "logoURI": ""
+  },
+  {
+    "chainId": 1,
+    "type": "ERC20",
+    "address": "0xdd974d5c2e2928dea5f71b9825b8b646686bd200",
+    "name": "KyberNetwork",
+    "symbol": "KNC",
+    "decimals": 18,
+    "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xdd974D5C2e2928deA5F71b9825b8b646686BD200/logo.png"
+  },
+  {
+    "chainId": 1,
+    "type": "ERC20",
+    "address": "0xde30da39c46104798bb5aa3fe8b9e0e1f348163f",
+    "name": "Gitcoin",
+    "symbol": "GTC",
+    "decimals": 18,
+    "logoURI": ""
+  },
+  {
+    "chainId": 1,
+    "type": "ERC20",
+    "address": "0xb3319f5d18bc0d84dd1b4825dcde5d5f7266d407",
+    "name": "Compound 0x",
+    "symbol": "cZRX",
     "decimals": 8,
     "logoURI": ""
   },
   {
     "chainId": 1,
     "type": "ERC20",
-    "address": "",
+    "address": "0x6c8c6b02e7b2be14d4fa6022dfd6d75921d90e4e",
     "name": "",
     "symbol": "",
+    "decimals": 18,
+    "logoURI": ""
+  },
+  {
+    "chainId": 1,
+    "type": "ERC20",
+    "address": "0x6c8c6b02e7b2be14d4fa6022dfd6d75921d90e4e",
+    "name": "Compound Basic Attention Token",
+    "symbol": "cBAT",
     "decimals": 8,
     "logoURI": ""
   },
   {
     "chainId": 1,
     "type": "ERC20",
-    "address": "",
-    "name": "",
-    "symbol": "",
-    "decimals": 8,
+    "address": "0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359",
+    "name": "Sai Stablecoin v1.0",
+    "symbol": "SAI",
+    "decimals": 18,
     "logoURI": ""
   },
   {
     "chainId": 1,
     "type": "ERC20",
-    "address": "",
-    "name": "",
-    "symbol": "",
-    "decimals": 8,
+    "address": "0xcdcfc0f66c522fd086a1b725ea3c0eeb9f9e8814",
+    "name": "Aurora DAO",
+    "symbol": "AURA",
+    "decimals": 18,
     "logoURI": ""
   }
 ]
