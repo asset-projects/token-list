@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "name": "@asset-project/token-list",
-  "description": "test NPM package",
-  "author": "@asset-project",
+  "name": "@asset-projects/token-list",
+  "description": "List of tokens on Ethereum and Ethereum-compatible chains",
+  "author": "@asset-projects",
   "license": "MIT",
   "main": "index.js",
   "module": "esm/index.js",
