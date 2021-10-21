@@ -52,5 +52,50 @@
     "symbol": "SNX",
     "decimals": 18,
     "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets//logo.png"
+  },
+  {
+    "chainId": 10,
+    "type": "ERC20",
+    "address": "0xb548f63d4405466b36c0c0ac3318a22fdcec711a",
+    "name": "Rari Governance Token",
+    "symbol": "RGT",
+    "decimals": 18,
+    "logoURI": ""
+  },
+  {
+    "chainId": 10,
+    "type": "ERC20",
+    "address": "0xe405de8f52ba7559f9df3c368500b6e6ae6cee49",
+    "name": "Synth sETH",
+    "symbol": "sETH",
+    "decimals": 18,
+    "logoURI": ""
+  },
+  {
+    "chainId": 10,
+    "type": "ERC20",
+    "address": "0x298b9b95708152ff6968aafd889c6586e9169f1d",
+    "name": "Synth sBTC",
+    "symbol": "sBTC",
+    "decimals": 18,
+    "logoURI": ""
+  },
+  {
+    "chainId": 10,
+    "type": "ERC20",
+    "address": "0x8c6f28f2f1a3c87f0f938b96d27520d9751ec8d9",
+    "name": "Synth sUSD",
+    "symbol": "sUSD",
+    "decimals": 18,
+    "logoURI": ""
+  },
+  {
+    "chainId": 10,
+    "type": "ERC20",
+    "address": "0xc5db22719a06418028a40a9b5e9a7c02959d0d08",
+    "name": "Synth sLINK",
+    "symbol": "sLINK",
+    "decimals": 18,
+    "logoURI": ""
   }
 ]
