@@ -6,7 +6,7 @@
     "name": "Tether USD",
     "symbol": "USDT",
     "decimals": 6,
-    "logoURI": ""
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/usdt.png"
   },
   {
     "chainId": 42161,
@@ -15,7 +15,7 @@
     "name": "USD Coin",
     "symbol": "USDC",
     "decimals": 6,
-    "logoURI": ""
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/usdc.png"
   },
   {
     "chainId": 42161,
@@ -24,7 +24,7 @@
     "name": "Wrapped BTC",
     "symbol": "WBTC",
     "decimals": 8,
-    "logoURI": ""
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/wbtc.png"
   },
   {
     "chainId": 42161,
@@ -33,7 +33,7 @@
     "name": "Uniswap",
     "symbol": "UNI",
     "decimals": 18,
-    "logoURI": ""
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/uni.png"
   },
   {
     "chainId": 42161,
@@ -42,7 +42,7 @@
     "name": "ChainLink Token",
     "symbol": "LINK",
     "decimals": 18,
-    "logoURI": ""
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/link.png"
   },
   {
     "chainId": 42161,
@@ -51,7 +51,7 @@
     "name": "Graph Token",
     "symbol": "GRT",
     "decimals": 18,
-    "logoURI": ""
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/grt.png"
   },
   {
     "chainId": 42161,
@@ -60,7 +60,7 @@
     "name": "Sushi Token",
     "symbol": "SUSHI",
     "decimals": 18,
-    "logoURI": ""
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/sushi.png"
   },
   {
     "chainId": 42161,
@@ -69,7 +69,7 @@
     "name": "Compound",
     "symbol": "COMP",
     "decimals": 18,
-    "logoURI": ""
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/comp.png"
   },
   {
     "chainId": 42161,
@@ -78,7 +78,7 @@
     "name": "Magic Internet Money",
     "symbol": "MIM",
     "decimals": 18,
-    "logoURI": ""
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/mim.png"
   },
   {
     "chainId": 42161,
@@ -87,7 +87,7 @@
     "name": "yearn.finance",
     "symbol": "YFI",
     "decimals": 18,
-    "logoURI": ""
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/yfi.png"
   },
   {
     "chainId": 42161,
@@ -96,7 +96,7 @@
     "name": "Curve DAO Token",
     "symbol": "CRV",
     "decimals": 18,
-    "logoURI": ""
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/crv.png"
   },
   {
     "chainId": 42161,
@@ -105,7 +105,7 @@
     "name": "Celer Token",
     "symbol": "CELR",
     "decimals": 18,
-    "logoURI": ""
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/celr.png"
   },
   {
     "chainId": 42161,
@@ -114,7 +114,7 @@
     "name": "Gnosis Token",
     "symbol": "GNO",
     "decimals": 18,
-    "logoURI": ""
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/gno.png"
   },
   {
     "chainId": 42161,
@@ -123,7 +123,7 @@
     "name": "Rari Governance Token",
     "symbol": "RGT",
     "decimals": 18,
-    "logoURI": ""
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/rgt.png"
   },
   {
     "chainId": 42161,
@@ -132,7 +132,7 @@
     "name": "DODO bird",
     "symbol": "DODO",
     "decimals": 18,
-    "logoURI": ""
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/dodo.png"
   },
   {
     "chainId": 42161,
@@ -141,7 +141,7 @@
     "name": "Badger",
     "symbol": "BADGER",
     "decimals": 18,
-    "logoURI": ""
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/badger.png"
   },
   {
     "chainId": 42161,
@@ -150,7 +150,7 @@
     "name": "Balancer",
     "symbol": "BAL",
     "decimals": 18,
-    "logoURI": ""
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/bal.png"
   },
   {
     "chainId": 42161,
@@ -159,7 +159,7 @@
     "name": "MATH Token",
     "symbol": "MATH",
     "decimals": 18,
-    "logoURI": ""
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/math.png"
   },
   {
     "chainId": 42161,
@@ -168,7 +168,7 @@
     "name": "Synth sUSD",
     "symbol": "sUSD",
     "decimals": 18,
-    "logoURI": ""
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/susd.png"
   },
   {
     "chainId": 42161,
@@ -177,7 +177,7 @@
     "name": "MCDEX Token",
     "symbol": "MCB",
     "decimals": 18,
-    "logoURI": ""
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/mcb.png"
   },
   {
     "chainId": 42161,
@@ -186,7 +186,7 @@
     "name": "Cream",
     "symbol": "CREAM",
     "decimals": 18,
-    "logoURI": ""
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/cream.png"
   },
   {
     "chainId": 42161,
@@ -195,7 +195,7 @@
     "name": "dForce",
     "symbol": "DF",
     "decimals": 18,
-    "logoURI": ""
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/df.png"
   },
   {
     "chainId": 42161,
@@ -204,7 +204,7 @@
     "name": "Stake DAO Token",
     "symbol": "SDT",
     "decimals": 18,
-    "logoURI": ""
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/sdt.png"
   },
   {
     "chainId": 42161,
@@ -213,7 +213,7 @@
     "name": "Cap",
     "symbol": "CAP",
     "decimals": 18,
-    "logoURI": ""
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/cap.png"
   },
   {
     "chainId": 42161,
@@ -222,6 +222,6 @@
     "name": "Antimatter.Finance Governance Token",
     "symbol": "MATTER",
     "decimals": 18,
-    "logoURI": ""
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/matter.png"
   }
 ]
