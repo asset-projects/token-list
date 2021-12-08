@@ -6,7 +6,7 @@
     "name": "Wrapped Ether",
     "symbol": "WETH",
     "decimals": 18,
-    "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/eth.png"
   },
   {
     "chainId": 137,
@@ -15,7 +15,7 @@
     "name": "BNB",
     "symbol": "BNB",
     "decimals": 18,
-    "logoURI": "https://etherscan.io/token/images/bnb_28_2.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/bnb.png"
   },
   {
     "chainId": 137,
@@ -24,7 +24,7 @@
     "name": "Tether USD",
     "symbol": "USDT",
     "decimals": 6,
-    "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/usdt.png"
   },
   {
     "chainId": 137,
@@ -33,7 +33,7 @@
     "name": "USD Coin",
     "symbol": "USDC",
     "decimals": 6,
-    "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/usdc.png"
   },
   {
     "chainId": 137,
@@ -42,7 +42,7 @@
     "name": "ChainLink",
     "symbol": "LINK",
     "decimals": 18,
-    "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/link.png"
   },
   {
     "chainId": 137,
@@ -51,7 +51,7 @@
     "name": "Uniswap",
     "symbol": "UNI",
     "decimals": 18,
-    "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/uni.png"
   },
   {
     "chainId": 137,
@@ -60,7 +60,7 @@
     "name": "binance-usd",
     "symbol": "BUSD",
     "decimals": 18,
-    "logoURI": ""
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/busd.png"
   },
   {
     "chainId": 137,
@@ -69,7 +69,7 @@
     "name": "Wrapped BTC",
     "symbol": "WBTC",
     "decimals": 8,
-    "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/wbtc.png"
   },
   {
     "chainId": 137,
@@ -78,7 +78,7 @@
     "name": "Dai Stablecoin",
     "symbol": "DAI",
     "decimals": 18,
-    "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/dai.png"
   },
   {
     "chainId": 137,
@@ -87,7 +87,7 @@
     "name": "Aave",
     "symbol": "AAVE",
     "decimals": 18,
-    "logoURI": ""
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/aave.png"
   },
   {
     "chainId": 137,
@@ -96,6 +96,465 @@
     "name": "Graph Token",
     "symbol": "GRT",
     "decimals": 18,
-    "logoURI": "https://assets.trustwalletapp.com/blockchains/ethereum/assets/0xc944E90C64B2c07662A292be6244BDf05Cda44a7/logo.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/grt.png"
+  },
+  {
+    "chainId": 137,
+    "type": "ERC20",
+    "address": "0x0000000000000000000000000000000000001010",
+    "name": "Matic Token",
+    "symbol": "MATIC",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/polygon.png"
+  },
+  {
+    "chainId": 137,
+    "type": "ERC20",
+    "address": "0xada58df0f643d959c2a47c9d4d4c1a4defe3f11c",
+    "name": "Crypto.com Coin",
+    "symbol": "CRO",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/cro.png"
+  },
+  {
+    "chainId": 137,
+    "type": "ERC20",
+    "address": "0xa1c57f48f0deb89f569dfbe6e2b7f46d33606fd4",
+    "name": "Decentraland",
+    "symbol": "MANA",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/mana.png"
+  },
+  {
+    "chainId": 137,
+    "type": "ERC20",
+    "address": "0xc6d54d2f624bc83815b49d9c2203b1330b841ca0",
+    "name": "SAND",
+    "symbol": "SAND",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/sand.png"
+  },
+  {
+    "chainId": 137,
+    "type": "ERC20",
+    "address": "0xb46e0ae620efd98516f49bb00263317096c114b2",
+    "name": "Theta Token (PoS)",
+    "symbol": "THETA",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/theta.png"
+  },
+  {
+    "chainId": 137,
+    "type": "ERC20",
+    "address": "0xc9c1c1c20b3658f8787cc2fd702267791f224ce1",
+    "name": "Fantom Token",
+    "symbol": "FTM",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/ftm.png"
+  },
+  {
+    "chainId": 137,
+    "type": "ERC20",
+    "address": "0x06d02e9d62a13fc76bb229373fb3bbbd1101d2fc",
+    "name": "Bitfinex LEO Token",
+    "symbol": "LEO",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/leo.png"
+  },
+  {
+    "chainId": 137,
+    "type": "ERC20",
+    "address": "0x84e1670f61347cdaed56dcc736fb990fbb47ddc1",
+    "name": "LoopringCoin V2",
+    "symbol": "LRC",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/lrc.png"
+  },
+  {
+    "chainId": 137,
+    "type": "ERC20",
+    "address": "0x0621d647cecbfb64b79e44302c1933cb4f27054d",
+    "name": "Amp",
+    "symbol": "Amp",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/amp.png"
+  },
+  {
+    "chainId": 137,
+    "type": "ERC20",
+    "address": "0x7ec26842f195c852fa843bb9f6d8b583a274a157",
+    "name": "EnjinCoin",
+    "symbol": "ENJ",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/enj.png"
+  },
+  {
+    "chainId": 137,
+    "type": "ERC20",
+    "address": "0xd6df932a45c0f255f85145f286ea0b292b21c90b",
+    "name": "Aave (PoS)",
+    "symbol": "AAVE",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/aave.png"
+  },
+  {
+    "chainId": 137,
+    "type": "ERC20",
+    "address": "0x6f7C932e7684666C9fd1d44527765433e01fF61d",
+    "name": "Maker",
+    "symbol": "MKR",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/mkr.png"
+  },
+  {
+    "chainId": 137,
+    "type": "ERC20",
+    "address": "0x3cef98bb43d732e2f285ee605a8158cde967d219",
+    "name": "BAT",
+    "symbol": "BAT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/bat.png"
+  },
+  {
+    "chainId": 137,
+    "type": "ERC20",
+    "address": "0x0c51f415cf478f8d08c246a6c6ee180c5dc3a012",
+    "name": "HoloToken",
+    "symbol": "HOT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/hot.png"
+  },
+  {
+    "chainId": 137,
+    "type": "ERC20",
+    "address": "0xf1938ce12400f9a761084e7a80d37e732a4da056",
+    "name": "chiliZ",
+    "symbol": "CHZ",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/chz.png"
+  },
+  {
+    "chainId": 137,
+    "type": "ERC20",
+    "address": "0x172370d5cd63279efa6d502dab29171933a610af",
+    "name": "CRV (PoS)",
+    "symbol": "CRV",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/crv.png"
+  },
+  {
+    "chainId": 137,
+    "type": "ERC20",
+    "address": "0xd85d1e945766fea5eda9103f918bd915fbca63e6",
+    "name": "Celsius",
+    "symbol": "CEL",
+    "decimals": 4,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/cel.png"
+  },
+  {
+    "chainId": 137,
+    "type": "ERC20",
+    "address": "0xfad65eb62a97ff5ed91b23afd039956aaca6e93b",
+    "name": "HuobiToken",
+    "symbol": "HT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/ht.png"
+  },
+  {
+    "chainId": 137,
+    "type": "ERC20",
+    "address": "0x8505b9d2254a7ae468c0e9dd10ccea3a837aef5c",
+    "name": "(PoS) Compound",
+    "symbol": "COMP",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/comp.png"
+  },
+  {
+    "chainId": 137,
+    "type": "ERC20",
+    "address": "0x45c32fa6df82ead1e2ef74d17b76547eddfaff89",
+    "name": "Frax",
+    "symbol": "FRAX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/frax.png"
+  },
+  {
+    "chainId": 137,
+    "type": "ERC20",
+    "address": "0x2e1ad108ff1d8c782fcbbb89aad783ac49586756",
+    "name": "TrueUSD",
+    "symbol": "TUSD",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/tusd.png"
+  },
+  {
+    "chainId": 137,
+    "type": "ERC20",
+    "address": "0x41b3966b4ff7b427969ddf5da3627d6aeae9a48e",
+    "name": "Nexo",
+    "symbol": "NEXO",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/nexo.png"
+  },
+  {
+    "chainId": 137,
+    "type": "ERC20",
+    "address": "0x6f3b3286fd86d8b47ec737ceb3d0d354cc657b3e",
+    "name": "Paxos Standard",
+    "symbol": "PAX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/pax.png"
+  },
+  {
+    "chainId": 137,
+    "type": "ERC20",
+    "address": "0x0b3f868e0be5597d5db7feb59e1cadbb0fdda50a",
+    "name": "SushiToken (PoS)",
+    "symbol": "SUSHI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/sushi.png"
+  },
+  {
+    "chainId": 137,
+    "type": "ERC20",
+    "address": "0x50b728d8d964fd00c2d0aad81718b71311fef68a",
+    "name": "Synthetix Network Token (PoS)",
+    "symbol": "SNX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/snx.png"
+  },
+  {
+    "chainId": 137,
+    "type": "ERC20",
+    "address": "0x9c2c5fd7b07e95ee044ddeba0e97a665f142394f",
+    "name": "1INCH",
+    "symbol": "1INCH",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/1inchi.png"
+  },
+  {
+    "chainId": 137,
+    "type": "ERC20",
+    "address": "0xf6372cdb9c1d3674e83842e3800f2a62ac9f3c66",
+    "name": "IoTeX Network",
+    "symbol": "IOTX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/iotx.png"
+  },
+  {
+    "chainId": 137,
+    "type": "ERC20",
+    "address": "0x3962f4a0a0051dcce0be73a7e09cef5756736712",
+    "name": "Livepeer Token",
+    "symbol": "LPT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/lpt.png"
+  },
+  {
+    "chainId": 137,
+    "type": "ERC20",
+    "address": "0x62414d03084eeb269e18c970a21f45d2967f0170",
+    "name": "OMG Network",
+    "symbol": "OMG",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/omg.png"
+  },
+  {
+    "chainId": 137,
+    "type": "ERC20",
+    "address": "0xc26d47d5c33ac71ac5cf9f776d63ba292a4f7842",
+    "name": "Bancor",
+    "symbol": "BNT",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/bnt.png"
+  },
+  {
+    "chainId": 137,
+    "type": "ERC20",
+    "address": "0xda537104d6a5edd53c6fbba9a898708e465260b6",
+    "name": "(PoS) yearn.finance",
+    "symbol": "YFI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/yfi.png"
+  },
+  {
+    "chainId": 137,
+    "type": "ERC20",
+    "address": "0xdbf31df14b66535af65aac99c32e9ea844e14501",
+    "name": "renBTC",
+    "symbol": "renBTC",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/renBTC.png"
+  },
+  {
+    "chainId": 137,
+    "type": "ERC20",
+    "address": "0x5559edb74751a0ede9dea4dc23aee72cca6be3d5",
+    "name": "ZRX",
+    "symbol": "ZRX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/zrx.png"
+  },
+  {
+    "chainId": 137,
+    "type": "ERC20",
+    "address": "0xdf7837de1f2fa4631d716cf2502f8b230f1dcc32",
+    "name": "Telcoin",
+    "symbol": "TEL",
+    "decimals": 2,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/tel.png"
+  },
+  {
+    "chainId": 137,
+    "type": "ERC20",
+    "address": "0x1a3acf6d19267e2d3e7f898f42803e90c9219062",
+    "name": "Frax Share",
+    "symbol": "FXS",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/fxs.png"
+  },
+  {
+    "chainId": 137,
+    "type": "ERC20",
+    "address": "0xe0339c80ffde91f3e20494df88d4206d86024cdf",
+    "name": "Dogelon",
+    "symbol": "ELON",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/elon.png"
+  },
+  {
+    "chainId": 137,
+    "type": "ERC20",
+    "address": "0x5ffd62d3c3ee2e81c00a7b9079fb248e7df024a8",
+    "name": "Gnosis",
+    "symbol": "GNO",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/gno.png"
+  },
+  {
+    "chainId": 137,
+    "type": "ERC20",
+    "address": "0x67ce67ec4fcd4aca0fcb738dd080b2a21ff69d75",
+    "name": "SwissBorg",
+    "symbol": "CHSB",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/chsbs.png"
+  },
+  {
+    "chainId": 137,
+    "type": "ERC20",
+    "address": "0x6bf2eb299e51fc5df30dec81d9445dde70e3f185",
+    "name": "Serum",
+    "symbol": "SRM",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/srm.png"
+  },
+  {
+    "chainId": 137,
+    "type": "ERC20",
+    "address": "0x282d8efce846a88b159800bd4130ad77443fa1a1",
+    "name": "Ocean Token",
+    "symbol": "OCEAN",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/ocean.png"
+  },
+  {
+    "chainId": 137,
+    "type": "ERC20",
+    "address": "0x0b220b82f3ea3b7f6d9a1d8ab58930c064a2b5bf",
+    "name": "Golem Network Token",
+    "symbol": "GLM",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/glm.png"
+  },
+  {
+    "chainId": 137,
+    "type": "ERC20",
+    "address": "0x2b9e7ccdf0f4e5b24757c1e1a80e311e34cb10c7",
+    "name": "Mask Network",
+    "symbol": "MASK",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/mask.png"
+  },
+  {
+    "chainId": 137,
+    "type": "ERC20",
+    "address": "0x4e78011ce80ee02d2c3e649fb657e45898257815",
+    "name": "Klima DAO",
+    "symbol": "KLIMA",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/klima.png"
+  },
+  {
+    "chainId": 137,
+    "type": "ERC20",
+    "address": "0x7583feddbcefa813dc18259940f76a02710a8905",
+    "name": "Fetch",
+    "symbol": "FET",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/fet.png"
+  },
+  {
+    "chainId": 137,
+    "type": "ERC20",
+    "address": "0x42f37a1296b2981f7c3caced84c5096b2eb0c72c",
+    "name": "KEEP Token",
+    "symbol": "KEEP",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/keep.png"
+  },
+  {
+    "chainId": 137,
+    "type": "ERC20",
+    "address": "0x553d3d295e0f695b9228246232edf400ed3560b5",
+    "name": "Paxos Gold",
+    "symbol": "PAXG",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/paxg.png"
+  },
+  {
+    "chainId": 137,
+    "type": "ERC20",
+    "address": "0x2088c47fc0c78356c622f79dba4cbe1ccfa84a91",
+    "name": "HUSD",
+    "symbol": "HUSD",
+    "decimals": 8,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/husd.png"
+  },
+  {
+    "chainId": 137,
+    "type": "ERC20",
+    "address": "0xa63beffd33ab3a2efd92a39a7d2361cee14ceba8",
+    "name": "OriginToken",
+    "symbol": "OGN",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/ogn.png"
+  },
+  {
+    "chainId": 137,
+    "type": "ERC20",
+    "address": "0xcb059c5573646047d6d88dddb87b745c18161d3b",
+    "name": "Polymath",
+    "symbol": "POLY",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/poly.png"
+  },
+  {
+    "chainId": 137,
+    "type": "ERC20",
+    "address": "0xdb95f9188479575f3f718a245eca1b3bf74567ec",
+    "name": "Gitcoin (PoS)",
+    "symbol": "GTC",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/gtc.png"
+  },
+  {
+    "chainId": 137,
+    "type": "ERC20",
+    "address": "0x9a71012b13ca4d3d0cdc72a177df3ef03b0e76a3",
+    "name": "Balancer",
+    "symbol": "BAL",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/bal.png"
   }
 ]
