@@ -39,3 +39,12 @@ const App: React.VFC = () => {
   );
 };
 ```
+
+## References
+
+Respect and reference
+This project was created with reference to [uniswap/default-token-list](https://github.com/Uniswap/default-token-list) and [trustWallet/assets](https://github.com/trustwallet/assets).
+
+It was created because these projects lacked resources for L2 contract addresses such as optimism and arbitrum.
+
+Respect to these projects!
