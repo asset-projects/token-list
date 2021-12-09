@@ -13,3 +13,7 @@ type TokenList = Token[];
 export type EthereumTokenList = {
   [key: string]: TokenList;
 };
+
+export type TokenMap = {
+  erc20: EthereumTokenList;
+};
