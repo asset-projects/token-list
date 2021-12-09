@@ -7,6 +7,17 @@
     "url": "https://github.com/asset-project/token-list/issues"
   },
   "homepage": "https://github.com/asset-project/token-list#readme",
+  "keywords": [
+    "asset-projects",
+    "ethereum",
+    "token",
+    "list",
+    "optimism",
+    "arbitrum",
+    "polygon",
+    "mainnet",
+    "ERC20"
+  ],
   "license": "MIT",
   "main": "index.js",
   "module": "esm/index.js",
