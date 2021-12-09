@@ -7,11 +7,13 @@ type Token = {
   decimals: number;
   logoURI: string;
 };
-
 type TokenList = Token[];
 
 export type EthereumTokenList = {
-  [key: string]: TokenList;
+  mainnet: TokenList;
+  optimism: TokenList;
+  arbitrum: TokenList;
+  polygon: TokenList;
 };
 
 export type TokenMap = {
