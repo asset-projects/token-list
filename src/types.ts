@@ -11,7 +11,7 @@ type TokenList = Token[];
 
 export type EthereumTokenList = {
   mainnet: TokenList;
-  optimism: TokenList;
+  'optimistic-ethereum': TokenList;
   arbitrum: TokenList;
   polygon: TokenList;
 
