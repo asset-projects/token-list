@@ -18,6 +18,7 @@ export type EthereumTokenList = {
   // Test Network
   ropsten: TokenList;
   kovan: TokenList;
+  rinkeby: TokenList;
 };
 
 export type TokenMap = {
