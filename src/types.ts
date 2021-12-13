@@ -15,8 +15,9 @@ export type EthereumTokenList = {
   arbitrum: TokenList;
   polygon: TokenList;
 
-  // testnetwork
+  // Test Network
   ropsten: TokenList;
+  kovan: TokenList;
 };
 
 export type TokenMap = {
