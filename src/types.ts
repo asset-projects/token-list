@@ -9,17 +9,12 @@ type Token = {
 };
 type TokenList = Token[];
 
-export type EthereumTokenList = {
-  mainnet: TokenList;
-  'optimistic-ethereum': TokenList;
-  arbitrum: TokenList;
-  polygon: TokenList;
+export type MainNetworkList = ['mainnet', 'optimistic-ethereum', 'arbitrum', 'polygon'];
+export type TestNetworkList = ['ropsten', 'kovan', 'rinkeby', 'goerli'];
+export type NetworkList = [...MainNetworkList, ...TestNetworkList];
 
-  // Test Network
-  ropsten: TokenList;
-  kovan: TokenList;
-  rinkeby: TokenList;
-  goerli: TokenList;
+export type EthereumTokenList = {
+  [key in NetworkList[number]]: TokenList;
 };
 
 export type TokenMap = {
