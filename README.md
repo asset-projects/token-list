@@ -6,7 +6,7 @@ This library maintains a list of ERC20 tokens that exist on the ethereum mainnet
 
 It manages the main tokens and the top 100 or so tokens.
 
-Support for Ethereum mainnet, optimism, arbitrum, polygon, and Other chains will be supported in the future.
+Support for Ethereum mainnet, optimistic-ethereum, arbitrum, polygon, and Other chains will be supported in the future.
 
 ##　 Install on your project
 
