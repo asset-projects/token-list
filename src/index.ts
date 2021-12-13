@@ -5,6 +5,7 @@ import Polygon from './tokens/polygon.json';
 import Ropsten from './tokens/ropsten.json';
 import Kovan from './tokens/ropsten.json';
 import Rinkeby from './tokens/rinkeby.json';
+import Goerli from './tokens/goerli.json';
 import type { TokenMap } from './types';
 
 export const tokenList = (): TokenMap => ({
@@ -17,5 +18,6 @@ export const tokenList = (): TokenMap => ({
     ropsten: Ropsten,
     kovan: Kovan,
     rinkeby: Rinkeby,
+    goerli: Goerli,
   },
 });

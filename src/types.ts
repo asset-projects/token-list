@@ -19,6 +19,7 @@ export type EthereumTokenList = {
   ropsten: TokenList;
   kovan: TokenList;
   rinkeby: TokenList;
+  goerli: TokenList;
 };
 
 export type TokenMap = {
