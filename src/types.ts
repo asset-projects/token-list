@@ -14,6 +14,9 @@ export type EthereumTokenList = {
   optimism: TokenList;
   arbitrum: TokenList;
   polygon: TokenList;
+
+  // testnetwork
+  ropsten: TokenList;
 };
 
 export type TokenMap = {
