@@ -7,6 +7,7 @@ import Kovan from './tokens/ropsten.json';
 import Rinkeby from './tokens/rinkeby.json';
 import Goerli from './tokens/goerli.json';
 import ArbitrumTestNetwork from './tokens/arbitrum-testnet-rinkeby.json';
+import OptimisticEthereumKovan from './tokens/optimistic-ethereum-kovan.json';
 import type { TokenMap } from './types';
 
 export const tokenList = (): TokenMap => ({
@@ -22,5 +23,6 @@ export const tokenList = (): TokenMap => ({
     rinkeby: Rinkeby,
     goerli: Goerli,
     'arbitrum-test-rinkeby': ArbitrumTestNetwork,
+    'optimistic-ethereum-kovan': OptimisticEthereumKovan,
   },
 });
