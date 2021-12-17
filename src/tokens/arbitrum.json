@@ -56,6 +56,15 @@
   {
     "chainId": 42161,
     "type": "ERC20",
+    "address": "0x46d0ce7de6247b0a95f67b43b589b4041bae7fbe",
+    "name": "LoopringCoin V2",
+    "symbol": "LRC",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/lrc.png"
+  },
+  {
+    "chainId": 42161,
+    "type": "ERC20",
     "address": "0xd4d42f0b6def4ce0383636770ef773390d85c61a",
     "name": "Sushi Token",
     "symbol": "SUSHI",
