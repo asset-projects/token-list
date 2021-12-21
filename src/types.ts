@@ -9,7 +9,13 @@ type Token = {
 };
 type TokenList = Token[];
 
-export type MainNetworkList = ['mainnet', 'optimistic-ethereum', 'arbitrum', 'polygon'];
+export type MainNetworkList = [
+  'mainnet',
+  'optimistic-ethereum',
+  'arbitrum',
+  'polygon',
+  'binance-smart-chain',
+];
 export type TestNetworkList = [
   'ropsten',
   'kovan',
