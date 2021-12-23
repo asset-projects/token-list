@@ -1,5 +1,5 @@
 {
-  "version": "2.0.0",
+  "version": "2.0.1",
   "name": "@asset-projects/token-list",
   "description": "List of tokens on Ethereum and Ethereum-compatible chains",
   "author": "@asset-projects",
@@ -20,10 +20,10 @@
     "ERC20"
   ],
   "license": "MIT",
-  "main": "index.js",
-  "module": "esm/index.js",
-  "types": "lib/index.d.ts",
-  "typings": "lib/index.d.ts",
+  "main": "lib/src/ndex.js",
+  "module": "esm/src/index.js",
+  "types": "lib/src/index.d.ts",
+  "typings": "lib/src/index.d.ts",
   "files": [
     "lib/",
     "esm/"
