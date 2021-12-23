@@ -1,3 +1,4 @@
+import type { TokenMap } from './types';
 import Mainnet from './tokens/mainnet.json';
 import Optimism from './tokens/optimistic-ethereum.json';
 import Arbitrum from './tokens/arbitrum.json';
@@ -9,7 +10,6 @@ import Rinkeby from './tokens/rinkeby.json';
 import Goerli from './tokens/goerli.json';
 import ArbitrumTestNetwork from './tokens/arbitrum-testnet-rinkeby.json';
 import OptimisticEthereumKovan from './tokens/optimistic-ethereum-kovan.json';
-import type { TokenMap } from './types';
 
 export const tokenList = (): TokenMap => ({
   erc20: {

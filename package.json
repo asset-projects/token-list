@@ -29,7 +29,7 @@
     "esm/"
   ],
   "scripts": {
-    "test": "tsc",
+    "test": "jest",
     "lint": "eslint . && prettier --check .",
     "format": "eslint --fix . && prettier --write .",
     "build:cjs": "tsc",
@@ -39,12 +39,19 @@
     "prepare": "husky install"
   },
   "devDependencies": {
+    "@babel/core": "^7.16.5",
+    "@babel/preset-env": "^7.16.5",
+    "@babel/preset-typescript": "^7.16.5",
+    "@types/jest": "^27.0.3",
     "@typescript-eslint/eslint-plugin": "^5.8.0",
     "@typescript-eslint/parser": "^5.8.0",
+    "babel-jest": "^27.4.5",
     "eslint": "^8.5.0",
     "eslint-config-prettier": "^8.3.0",
     "husky": "^7.0.0",
+    "jest": "^27.4.5",
     "prettier": "^2.5.1",
+    "ts-node": "^10.4.0",
     "typescript": "4.5.4"
   },
   "peerDependencies": {
