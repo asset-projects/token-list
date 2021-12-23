@@ -8,7 +8,7 @@ It manages the main tokens and the top 100 or so tokens.
 
 Support for Ethereum mainnet, optimistic-ethereum, arbitrum, polygon, and Other chains will be supported in the future.
 
-##　 Install on your project
+## Install on your project
 
 ```zsh
   # npm
