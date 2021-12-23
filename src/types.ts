@@ -7,7 +7,7 @@ type ERC20Token = {
   decimals: number;
   logoURI: string;
 };
-type ERC20TokenList = ERC20Token[];
+export type ERC20TokenList = ERC20Token[];
 
 export type MainNetworkList = [
   'mainnet',

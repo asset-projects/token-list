@@ -1,4 +1,10 @@
-import type { EthereumTokenList } from './types';
+import type {
+  EthereumTokenList,
+  ERC20TokenList,
+  MainNetworkList,
+  TestNetworkList,
+  NetworkList,
+} from './types';
 import {
   MAINNET,
   OPTIMISTIC_ETHEREUM,
@@ -27,6 +33,7 @@ export const tokenList = (): EthereumTokenList => ({
   'optimistic-ethereum-kovan': OPTIMISTIC_ETHEREUM_KOVAN,
 });
 
+export type { ERC20TokenList, MainNetworkList, TestNetworkList, NetworkList };
 export {
   MAINNET,
   OPTIMISTIC_ETHEREUM,
