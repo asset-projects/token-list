@@ -1,4 +1,4 @@
-import { tokenList } from '.';
+import { tokenList } from '../src';
 
 describe('tokenList', () => {
   it('Does the data exist?', () => {

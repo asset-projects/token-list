@@ -30,6 +30,8 @@
   ],
   "scripts": {
     "test": "jest",
+    "type-check": "tsc --pretty --noEmit",
+    "test-all": "yarn type-check && yarn test",
     "lint": "eslint . && prettier --check .",
     "format": "eslint --fix . && prettier --write .",
     "build:cjs": "tsc",
