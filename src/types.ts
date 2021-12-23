@@ -1,4 +1,4 @@
-type ERC20Token = {
+export type ERC20Token = {
   chainId: number;
   type: string;
   address: string;
