@@ -20,26 +20,11 @@ Support for Ethereum mainnet, optimistic-ethereum, arbitrum, polygon, and Other 
 
 # How to Use
 
-```tsx
+```ts
 import { tokenList } from '@asset-projects/token-list';
 
-const App: React.VFC = () => {
-  return (
-    <ul>
-      {tokenList().erc20.mainnet.map((item) => (
-        <li key={item.address}>
-          <span>chainId: {item.chainId}</span>
-          <span>address: {item.address}</span>
-          <span>name: {item.name}</span>
-          <span>symbol: {item.symbol}</span>
-          <span>address: {item.address}</span>
-          <span>decimals: {item.decimals}</span>
-          <img src={item.logoURI} />
-        </li>
-      ))}
-    </ul>
-  );
-};
+console.log(tokenList().mainnet.ERC20);
+// [{"chainId": 1, "type": "ERC20", "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599", "name": "Wrapped BTC", ...}]
 ```
 
 ## References

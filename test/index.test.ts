@@ -6,43 +6,43 @@ describe('tokenList', () => {
   });
 
   it('mainnet', () => {
-    expect(tokenList().erc20.mainnet).toBeDefined();
+    expect(tokenList().mainnet.ERC20).toBeDefined();
   });
 
   it('optimistic-ethereum', () => {
-    expect(tokenList().erc20['optimistic-ethereum']).toBeDefined();
+    expect(tokenList()['optimistic-ethereum'].ERC20).toBeDefined();
   });
 
   it('arbitrum', () => {
-    expect(tokenList().erc20.arbitrum).toBeDefined();
+    expect(tokenList().arbitrum.ERC20).toBeDefined();
   });
 
   it('polygon', () => {
-    expect(tokenList().erc20['binance-smart-chain']).toBeDefined();
+    expect(tokenList()['binance-smart-chain'].ERC20).toBeDefined();
   });
 
   // Test Network
   it('ropsten', () => {
-    expect(tokenList().erc20.ropsten).toBeDefined();
+    expect(tokenList().ropsten.ERC20).toBeDefined();
   });
 
   it('kovan', () => {
-    expect(tokenList().erc20.kovan).toBeDefined();
+    expect(tokenList().kovan.ERC20).toBeDefined();
   });
 
   it('rinkeby', () => {
-    expect(tokenList().erc20.rinkeby).toBeDefined();
+    expect(tokenList().rinkeby.ERC20).toBeDefined();
   });
 
   it('goerli', () => {
-    expect(tokenList().erc20.goerli).toBeDefined();
+    expect(tokenList().goerli.ERC20).toBeDefined();
   });
 
   it('arbitrum-test-rinkeby', () => {
-    expect(tokenList().erc20['arbitrum-test-rinkeby']).toBeDefined();
+    expect(tokenList()['arbitrum-test-rinkeby'].ERC20).toBeDefined();
   });
 
   it('optimistic-ethereum-kovan', () => {
-    expect(tokenList().erc20['optimistic-ethereum-kovan']).toBeDefined();
+    expect(tokenList()['optimistic-ethereum-kovan'].ERC20).toBeDefined();
   });
 });

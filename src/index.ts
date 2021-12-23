@@ -1,30 +1,42 @@
-import type { TokenMap } from './types';
-import Mainnet from './tokens/mainnet.json';
-import Optimism from './tokens/optimistic-ethereum.json';
-import Arbitrum from './tokens/arbitrum.json';
-import Polygon from './tokens/polygon.json';
-import BinanceSmartChainMainnnet from './tokens/binance-smart-chain-mainnet.json';
-import Ropsten from './tokens/ropsten.json';
-import Kovan from './tokens/ropsten.json';
-import Rinkeby from './tokens/rinkeby.json';
-import Goerli from './tokens/goerli.json';
-import ArbitrumTestNetwork from './tokens/arbitrum-testnet-rinkeby.json';
-import OptimisticEthereumKovan from './tokens/optimistic-ethereum-kovan.json';
+import type { EthereumTokenList } from './types';
+import {
+  MAINNET,
+  OPTIMISTIC_ETHEREUM,
+  ARBITRUM,
+  POLYGON,
+  BINANCE_SMART_CHAIN,
+  ROPSTEN,
+  KOVAN,
+  RINKEBY,
+  GOERLI,
+  ARBITRUM_TEST_NETWORK,
+  OPTIMISTIC_ETHEREUM_KOVAN,
+} from './parts';
 
-export const tokenList = (): TokenMap => ({
-  erc20: {
-    mainnet: Mainnet,
-    'optimistic-ethereum': Optimism,
-    arbitrum: Arbitrum,
-    polygon: Polygon,
-    'binance-smart-chain': BinanceSmartChainMainnnet,
-
-    // Test Network
-    ropsten: Ropsten,
-    kovan: Kovan,
-    rinkeby: Rinkeby,
-    goerli: Goerli,
-    'arbitrum-test-rinkeby': ArbitrumTestNetwork,
-    'optimistic-ethereum-kovan': OptimisticEthereumKovan,
-  },
+export const tokenList = (): EthereumTokenList => ({
+  mainnet: MAINNET,
+  'optimistic-ethereum': OPTIMISTIC_ETHEREUM,
+  arbitrum: ARBITRUM,
+  polygon: POLYGON,
+  'binance-smart-chain': BINANCE_SMART_CHAIN,
+  ropsten: ROPSTEN,
+  kovan: KOVAN,
+  rinkeby: RINKEBY,
+  goerli: GOERLI,
+  'arbitrum-test-rinkeby': ARBITRUM_TEST_NETWORK,
+  'optimistic-ethereum-kovan': OPTIMISTIC_ETHEREUM_KOVAN,
 });
+
+export {
+  MAINNET,
+  OPTIMISTIC_ETHEREUM,
+  ARBITRUM,
+  POLYGON,
+  BINANCE_SMART_CHAIN,
+  ROPSTEN,
+  KOVAN,
+  RINKEBY,
+  GOERLI,
+  ARBITRUM_TEST_NETWORK,
+  OPTIMISTIC_ETHEREUM_KOVAN,
+};

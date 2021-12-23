@@ -1,4 +1,4 @@
-type Token = {
+type ERC20Token = {
   chainId: number;
   type: string;
   address: string;
@@ -7,7 +7,7 @@ type Token = {
   decimals: number;
   logoURI: string;
 };
-type TokenList = Token[];
+type ERC20TokenList = ERC20Token[];
 
 export type MainNetworkList = [
   'mainnet',
@@ -27,9 +27,7 @@ export type TestNetworkList = [
 export type NetworkList = [...MainNetworkList, ...TestNetworkList];
 
 export type EthereumTokenList = {
-  [key in NetworkList[number]]: TokenList;
-};
-
-export type TokenMap = {
-  erc20: EthereumTokenList;
+  [key in NetworkList[number]]: {
+    ERC20: ERC20TokenList;
+  };
 };
