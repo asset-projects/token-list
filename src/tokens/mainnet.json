@@ -997,5 +997,32 @@
     "symbol": "KNC",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/knc.png"
+  },
+  {
+    "chainId": 1,
+    "type": "ERC20",
+    "address": "0x2370f9d504c7a6e775bf6e14b3f12846b594cd53",
+    "name": "JPY Coin",
+    "symbol": "JPYC",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/jpyc.png"
+  },
+  {
+    "chainId": 1,
+    "type": "ERC20",
+    "address": "0xC08512927D12348F6620a698105e1BAac6EcD911",
+    "name": "GMO JPY",
+    "symbol": "GYEN",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/gyen.png"
+  },
+  {
+    "chainId": 1,
+    "type": "ERC20",
+    "address": "0xc56c2b7e71B54d38Aab6d52E94a04Cbfa8F604fA",
+    "name": "Z.com USD",
+    "symbol": "ZUSD",
+    "decimals": 6,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/zusd.png"
   }
 ]
