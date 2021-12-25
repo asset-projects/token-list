@@ -556,5 +556,14 @@
     "symbol": "BAL",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/bal.png"
+  },
+  {
+    "chainId": 137,
+    "type": "ERC20",
+    "address": "0x6ae7dfc73e0dde2aa99ac063dcf7e8a63265108c",
+    "name": "JPY Coin(PoS)",
+    "symbol": "JPYC",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/jpyc.png"
   }
 ]
