@@ -1,6 +1,7 @@
 # @asset-projects/token-list
 
-[![npm](https://img.shields.io/npm/v/@asset-projects/token-list)](https://unpkg.com/@asset-projects/token-list@latest/)[![Package size](https://badgen.net/bundlephobia/minzip/@asset-projects/token-list)](https://bundlephobia.com/package/@asset-projects/token-list)[![!License](https://badgen.net/npm/license/@asset-projects/token-balance)](https://github.com/asset-project/token-balance/blob/main/LICENSE)[![Test](https://github.com/asset-project/token-list/actions/workflows/node.js.yml/badge.svg)](https://github.com/asset-project/token-list/actions/workflows/node.js.yml)[![Check Markdown links](https://github.com/asset-project/token-list/actions/workflows/linkchecker.yml/badge.svg)](https://github.com/asset-project/token-list/actions/workflows/linkchecker.yml)
+[![npm](https://img.shields.io/npm/v/@asset-projects/token-list)](https://unpkg.com/@asset-projects/token-list@latest/)[![Package size](https://badgen.net/bundlephobia/minzip/@asset-projects/token-list)](https://bundlephobia.com/package/@asset-projects/token-list)[![!License](https://badgen.net/npm/license/@asset-projects/token-balance)](https://github.com/asset-project/token-balance/blob/main/LICENSE)
+[![Test](https://github.com/asset-project/token-list/actions/workflows/node.js.yml/badge.svg)](https://github.com/asset-project/token-list/actions/workflows/node.js.yml)[![Check Markdown links](https://github.com/asset-project/token-list/actions/workflows/linkchecker.yml/badge.svg)](https://github.com/asset-project/token-list/actions/workflows/linkchecker.yml)
 
 This library maintains a list of ERC20 tokens that exist on the ethereum mainnet, L2 and sidechain.
 
