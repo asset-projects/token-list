@@ -1,14 +1,14 @@
-import Mainnet from './tokens/mainnet.json';
-import OptimisticEthereum from './tokens/optimistic-ethereum.json';
-import Arbitrum from './tokens/arbitrum.json';
-import Polygon from './tokens/polygon.json';
-import BinanceSmartChainMainnnet from './tokens/binance-smart-chain-mainnet.json';
-import Ropsten from './tokens/ropsten.json';
-import Kovan from './tokens/ropsten.json';
-import Rinkeby from './tokens/rinkeby.json';
-import Goerli from './tokens/goerli.json';
-import ArbitrumTestNetwork from './tokens/arbitrum-testnet-rinkeby.json';
-import OptimisticEthereumKovan from './tokens/optimistic-ethereum-kovan.json';
+import Mainnet from './tokens/erc20/mainnet.json';
+import OptimisticEthereum from './tokens/erc20/optimistic-ethereum.json';
+import Arbitrum from './tokens/erc20/arbitrum.json';
+import Polygon from './tokens/erc20/polygon.json';
+import BinanceSmartChainMainnnet from './tokens/erc20/binance-smart-chain-mainnet.json';
+import Ropsten from './tokens/erc20/ropsten.json';
+import Kovan from './tokens/erc20/ropsten.json';
+import Rinkeby from './tokens/erc20/rinkeby.json';
+import Goerli from './tokens/erc20/goerli.json';
+import ArbitrumTestNetwork from './tokens/erc20/arbitrum-testnet-rinkeby.json';
+import OptimisticEthereumKovan from './tokens/erc20/optimistic-ethereum-kovan.json';
 
 export const MAINNET = {
   ERC20: Mainnet,
