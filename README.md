@@ -26,6 +26,21 @@ import { tokenList } from '@asset-projects/token-list';
 
 console.log(tokenList().mainnet.ERC20);
 // [{"chainId": 1, "type": "ERC20", "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599", "name": "Wrapped BTC", ...}]
+
+console.log(tokenList().mainnet.ERC721);
+// [{"chainId": 1, "type": "ERC721", "address": "0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85", "name": "Ethereum Name Service", ...}]
+```
+
+# Other imports
+
+```ts
+import { MAINNET } from '@asset-projects/token-list';
+
+console.log(MAINNET.ERC20);
+// [{"chainId": 1, "type": "ERC20", "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599", "name": "Wrapped BTC", ...}]
+
+console.log(MAINNET.ERC721);
+// [{"chainId": 1, "type": "ERC721", "address": "0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85", "name": "Ethereum Name Service", ...}]
 ```
 
 ## References
