@@ -7,7 +7,18 @@ export type ERC20Token = {
   decimals: number;
   logoURI: string;
 };
+
+export type ERC721Token = {
+  chainId: number;
+  type: string;
+  address: string;
+  name: string;
+  symbol: string;
+  logoURI: string;
+};
+
 export type ERC20TokenList = ERC20Token[];
+export type ERC721TokenList = ERC721Token[];
 
 export type MainNetworkList = [
   'mainnet',
@@ -29,5 +40,6 @@ export type NetworkList = [...MainNetworkList, ...TestNetworkList];
 export type EthereumTokenList = {
   [key in NetworkList[number]]: {
     ERC20: ERC20TokenList;
+    ERC721: ERC721TokenList;
   };
 };

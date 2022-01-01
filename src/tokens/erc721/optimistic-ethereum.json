@@ -1,0 +1,18 @@
+[
+  {
+    "chainId": 10,
+    "type": "ERC721",
+    "address": "0xc36442b4a4522e871399cd717abdd847ab11fe88",
+    "name": "Uniswap V3 Positions NFT-V1",
+    "symbol": "UNI-V3-POS",
+    "logoURI": ""
+  },
+  {
+    "chainId": 10,
+    "type": "ERC721",
+    "address": "",
+    "name": "",
+    "symbol": "",
+    "logoURI": ""
+  }
+]

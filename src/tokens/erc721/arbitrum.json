@@ -1,0 +1,50 @@
+[
+  {
+    "chainId": 42161,
+    "type": "ERC721",
+    "address": "0xc36442b4a4522e871399cd717abdd847ab11fe88",
+    "name": "Uniswap V3 Positions NFT-V1",
+    "symbol": "UNI-V3-POS",
+    "logoURI": ""
+  },
+  {
+    "chainId": 42161,
+    "type": "ERC721",
+    "address": "0x6325439389e0797ab35752b4f43a14c004f22a9c",
+    "name": "Smol Brain",
+    "symbol": "SmolBrain",
+    "logoURI": ""
+  },
+  {
+    "chainId": 42161,
+    "type": "ERC721",
+    "address": "0xB16966daD2B5a5282b99846B23dcDF8C47b6132Cr",
+    "name": "Smol Car",
+    "symbol": "VROOM",
+    "logoURI": ""
+  },
+  {
+    "chainId": 42161,
+    "type": "ERC721",
+    "address": "0x17DaCAD7975960833f374622fad08b90Ed67D1B5",
+    "name": "Smol Bodies",
+    "symbol": "SmolBodies",
+    "logoURI": ""
+  },
+  {
+    "chainId": 42161,
+    "type": "ERC721",
+    "address": "0xd666d1cc3102cd03e07794a61e5f4333b4239f53",
+    "name": "Smol Brain Land",
+    "symbol": "SmolBrainLand",
+    "logoURI": ""
+  },
+  {
+    "chainId": 42161,
+    "type": "ERC721",
+    "address": "0x17f4BAa9D35Ee54fFbCb2608e20786473c7aa49f",
+    "name": "Blueberry Club",
+    "symbol": "GBC",
+    "logoURI": ""
+  }
+]

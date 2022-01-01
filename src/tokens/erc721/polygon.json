@@ -1,0 +1,90 @@
+[
+  {
+    "chainId": 1,
+    "type": "ERC721",
+    "address": "0xebaecaf32a1ea4dd2ac08f5ec0a3977f3b8dffba",
+    "name": "Uniqly Christmas - Regular Gift",
+    "symbol": "DCL-UNQLYCHRSTMS-RGLRGFT",
+    "logoURI": ""
+  },
+  {
+    "chainId": 1,
+    "type": "ERC721",
+    "address": "0xd50d167dd35d256e19e2fb76d6b9bf9f4c571a3e",
+    "name": "Pegaxy|Pega",
+    "symbol": "PGX-Pega",
+    "logoURI": ""
+  },
+  {
+    "chainId": 1,
+    "type": "ERC721",
+    "address": "0xC2B1AEfA00ee069816B8DB4d6814Cc6D49032f5D",
+    "name": "Coinhub NFTs",
+    "symbol": "Coinhub NFTs",
+    "logoURI": ""
+  },
+  {
+    "chainId": 1,
+    "type": "ERC721",
+    "address": "0x6255a94e85f876d8f8c9aed056a5a8a185027e1d",
+    "name": "MetaFest New Year&#39;s Eve 2022",
+    "symbol": "DCL-MTFSTNWYR&#39;SEV2022",
+    "logoURI": ""
+  },
+  {
+    "chainId": 1,
+    "type": "ERC721",
+    "address": "0x4d544035500d7ac1b42329c70eb58e77f8249f0f",
+    "name": "League of Kingdoms ITEM",
+    "symbol": "LOKI",
+    "logoURI": ""
+  },
+  {
+    "chainId": 1,
+    "type": "ERC721",
+    "address": "0xa0d855772f4ab273d7dd869479f0fcb98b91cc97",
+    "name": "MCG HERO",
+    "symbol": "mHERO",
+    "logoURI": ""
+  },
+  {
+    "chainId": 1,
+    "type": "ERC721",
+    "address": "0x091e47b865f185121d3449535e09d62e9bb23b7e",
+    "name": "BraveFrodo",
+    "symbol": "C",
+    "logoURI": ""
+  },
+  {
+    "chainId": 1,
+    "type": "ERC721",
+    "address": "0xdc3a1d0db41d9cbc43abb61ee627d675f3730b2b",
+    "name": "CargoX Document",
+    "symbol": "CXO-DOC",
+    "logoURI": ""
+  },
+  {
+    "chainId": 1,
+    "type": "ERC721",
+    "address": "0xd7f67a5aab6a418979110f62e2ba45c1cefef452",
+    "name": "Doodles Baby Ape Club",
+    "symbol": "DBAC",
+    "logoURI": ""
+  },
+  {
+    "chainId": 1,
+    "type": "ERC721",
+    "address": "0xa9a6a3626993d487d2dbda3173cf58ca1a9d9e9f",
+    "name": "Unstoppable Domains",
+    "symbol": "UD",
+    "logoURI": ""
+  },
+  {
+    "chainId": 1,
+    "type": "ERC721",
+    "address": "0xC36442b4a4522E871399CD717aBDD847Ab11FE88",
+    "name": "Uniswap V3 Positions NFT-V1",
+    "symbol": "UNI-V3-POS",
+    "logoURI": ""
+  }
+]
