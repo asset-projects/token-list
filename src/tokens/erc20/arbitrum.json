@@ -12,10 +12,19 @@
     "chainId": 42161,
     "type": "ERC20",
     "address": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8",
-    "name": "USD Coin",
+    "name": "USD Coin (Arb1)",
     "symbol": "USDC",
     "decimals": 6,
     "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/usdc.png"
+  },
+  {
+    "chainId": 42161,
+    "type": "ERC20",
+    "address": "0xf97f4df75117a78c1a5a0dbb814af92458539fb4",
+    "name": "ChainLink Token",
+    "symbol": "LINK",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/link.png"
   },
   {
     "chainId": 42161,
@@ -29,6 +38,15 @@
   {
     "chainId": 42161,
     "type": "ERC20",
+    "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
+    "name": "Dai Stablecoin",
+    "symbol": "DAI",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/dai.png"
+  },
+  {
+    "chainId": 42161,
+    "type": "ERC20",
     "address": "0xfa7f8980b0f1e64a2062791cc3b0871572f1f7f0",
     "name": "Uniswap",
     "symbol": "UNI",
@@ -38,11 +56,11 @@
   {
     "chainId": 42161,
     "type": "ERC20",
-    "address": "0xf97f4df75117a78c1a5a0dbb814af92458539fb4",
-    "name": "ChainLink Token",
-    "symbol": "LINK",
+    "address": "0xfea7a6a0b346362bf88a9e4a88416b77a57d6c2a",
+    "name": "Magic Internet Money",
+    "symbol": "MIM",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/link.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/mim.png"
   },
   {
     "chainId": 42161,
@@ -65,11 +83,47 @@
   {
     "chainId": 42161,
     "type": "ERC20",
+    "address": "0x11cdb42b0eb46d95f990bedd4695a6e3fa034978",
+    "name": "Curve DAO Token",
+    "symbol": "CRV",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/crv.png"
+  },
+  {
+    "chainId": 42161,
+    "type": "ERC20",
+    "address": "0x17fc002b466eec40dae837fc4be5c67993ddbd6f",
+    "name": "Frax",
+    "symbol": "FRAX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/frax.png"
+  },
+  {
+    "chainId": 42161,
+    "type": "ERC20",
     "address": "0xd4d42f0b6def4ce0383636770ef773390d85c61a",
     "name": "Sushi Token",
     "symbol": "SUSHI",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/sushi.png"
+  },
+  {
+    "chainId": 42161,
+    "type": "ERC20",
+    "address": "0x3e6648c5a70a150a88bce65f4ad4d506fe15d2af",
+    "name": "Spell Token",
+    "symbol": "SPELL",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/spell.png"
+  },
+  {
+    "chainId": 42161,
+    "type": "ERC20",
+    "address": "0x4d15a3a2286d883af0aa1b3f21367843fac63e07",
+    "name": "TrueUSD",
+    "symbol": "TUSD",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/trueUSD.png"
   },
   {
     "chainId": 42161,
@@ -83,11 +137,11 @@
   {
     "chainId": 42161,
     "type": "ERC20",
-    "address": "0xfea7a6a0b346362bf88a9e4a88416b77a57d6c2a",
-    "name": "Magic Internet Money",
-    "symbol": "MIM",
+    "address": "0x9d2f299715d94d8a7e6f5eaa8e654e8c74a988a7",
+    "name": "Frax Share",
+    "symbol": "FXS",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/mim.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/fxs.png"
   },
   {
     "chainId": 42161,
@@ -101,11 +155,38 @@
   {
     "chainId": 42161,
     "type": "ERC20",
-    "address": "0x11cdb42b0eb46d95f990bedd4695a6e3fa034978",
-    "name": "Curve DAO Token",
-    "symbol": "CRV",
+    "address": "0xa0b862f60edef4452f25b4160f177db44deb6cf1",
+    "name": "Gnosis Token",
+    "symbol": "GNO",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/crv.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/gno.png"
+  },
+  {
+    "chainId": 42161,
+    "type": "ERC20",
+    "address": "0x753d224bcf9aafacd81558c32341416df61d3dac",
+    "name": "Perpetual",
+    "symbol": "PERP",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/perp.png"
+  },
+  {
+    "chainId": 42161,
+    "type": "ERC20",
+    "address": "0xd693ec944a85eeca4247ec1c3b130dca9b0c3b22",
+    "name": "UMA Voting Token v1",
+    "symbol": "UMA",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/uma.png"
+  },
+  {
+    "chainId": 42161,
+    "type": "ERC20",
+    "address": "0x080f6aed32fc474dd5717105dba5ea57268f46eb",
+    "name": "Synapse",
+    "symbol": "SYN",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/syn.png"
   },
   {
     "chainId": 42161,
@@ -115,15 +196,6 @@
     "symbol": "CELR",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/celr.png"
-  },
-  {
-    "chainId": 42161,
-    "type": "ERC20",
-    "address": "0xa0b862f60edef4452f25b4160f177db44deb6cf1",
-    "name": "Gnosis Token",
-    "symbol": "GNO",
-    "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/gno.png"
   },
   {
     "chainId": 42161,
