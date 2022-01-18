@@ -101,6 +101,5 @@
     "node_modules",
     "lib",
     "esm",
-    "test/*"
   ]
 }
