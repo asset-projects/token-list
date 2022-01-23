@@ -1078,5 +1078,23 @@
     "symbol": "wNXM",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/wnxm.png"
+  },
+  {
+    "chainId": 1,
+    "type": "ERC20",
+    "address": "0x44709a920fccf795fbc57baa433cc3dd53c44dbe",
+    "name": "DappRadar",
+    "symbol": "RADAR",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/radar.png"
+  },
+  {
+    "chainId": 1,
+    "type": "ERC20",
+    "address": "0x4946fcea7c692606e8908002e55a582af44ac121",
+    "name": "FOAM Token",
+    "symbol": "FOAM",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/foam.png"
   }
 ]
