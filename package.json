@@ -1,12 +1,12 @@
 {
-  "version": "3.0.5",
+  "version": "3.1.0",
   "name": "@asset-projects/token-list",
   "description": "List of tokens on Ethereum and Ethereum-compatible chains",
   "author": "@asset-projects",
   "bugs": {
-    "url": "https://github.com/asset-project/token-list/issues"
+    "url": "https://github.com/asset-projects/token-list/issues"
   },
-  "homepage": "https://github.com/asset-project/token-list#readme",
+  "homepage": "https://github.com/asset-projects/token-list#readme",
   "keywords": [
     "asset-projects",
     "ethereum",
