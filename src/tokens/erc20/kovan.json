@@ -6,7 +6,7 @@
     "name": "Tether USD",
     "symbol": "USDT",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/usdt.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/usdt.png"
   },
   {
     "chainId": 42,
@@ -15,7 +15,7 @@
     "name": "USD Coin",
     "symbol": "USDC",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/usdc.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/usdc.png"
   },
   {
     "chainId": 42,
@@ -24,7 +24,7 @@
     "name": "Wrapped Ether",
     "symbol": "WETH",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/eth.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/eth.png"
   },
   {
     "chainId": 42,
@@ -33,7 +33,7 @@
     "name": "Dai Stablecoin",
     "symbol": "DAI",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/dai.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/dai.png"
   },
   {
     "chainId": 42,
@@ -42,6 +42,6 @@
     "name": "ChainLink",
     "symbol": "LINK",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/link.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/link.png"
   }
 ]

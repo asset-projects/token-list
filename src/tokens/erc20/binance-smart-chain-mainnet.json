@@ -6,7 +6,7 @@
     "name": "Binance-Peg Ethereum Token",
     "symbol": "ETH",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/eth.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/eth.png"
   },
   {
     "chainId": 56,
@@ -15,7 +15,7 @@
     "name": "Wrapped BNB",
     "symbol": "BNB",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/bnb.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/bnb.png"
   },
   {
     "chainId": 56,
@@ -24,7 +24,7 @@
     "name": "Binance-Peg BSC-USD",
     "symbol": "BSC-USD",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/bnb.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/bnb.png"
   },
   {
     "chainId": 56,
@@ -33,7 +33,7 @@
     "name": "Binance-Peg Cardano Token",
     "symbol": "ADA",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/ada.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/ada.png"
   },
   {
     "chainId": 56,
@@ -42,7 +42,7 @@
     "name": "Binance-Peg XRP Token",
     "symbol": "XRP",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/xrp.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/xrp.png"
   },
   {
     "chainId": 56,
@@ -51,7 +51,7 @@
     "name": "Binance-Peg USD Coin",
     "symbol": "USDC",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/usdc.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/usdc.png"
   },
   {
     "chainId": 56,
@@ -60,7 +60,7 @@
     "name": "Binance-Peg Avalanche Token",
     "symbol": "AVAX",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/avax.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/avax.png"
   },
   {
     "chainId": 56,
@@ -69,7 +69,7 @@
     "name": "Binance-Peg Polkadot Token",
     "symbol": "DOT",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/dot.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/dot.png"
   },
   {
     "chainId": 56,
@@ -78,7 +78,7 @@
     "name": "Binance-Peg Dogecoin Token",
     "symbol": "DOGE",
     "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/doge.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/doge.png"
   },
   {
     "chainId": 56,
@@ -87,7 +87,7 @@
     "name": "Binance-Peg SHIBA INU Token",
     "symbol": "SHIB",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/shib.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/shib.png"
   },
   {
     "chainId": 56,
@@ -96,7 +96,7 @@
     "name": "Binance-Peg BUSD Token",
     "symbol": "BUSD",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/busd.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/busd.png"
   },
   {
     "chainId": 56,
@@ -105,7 +105,7 @@
     "name": "Binance-Peg Litecoin Token",
     "symbol": "LTC",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/ltc.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/ltc.png"
   },
   {
     "chainId": 56,
@@ -114,7 +114,7 @@
     "name": "Binance-Peg Uniswap",
     "symbol": "UNI",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/uni.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/uni.png"
   },
   {
     "chainId": 56,
@@ -123,7 +123,7 @@
     "name": "Binance-peg Dai Token",
     "symbol": "DAI",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/dai.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/dai.png"
   },
   {
     "chainId": 56,
@@ -132,7 +132,7 @@
     "name": "Wrapped UST Token",
     "symbol": "UST",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/ust.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/ust.png"
   },
   {
     "chainId": 56,
@@ -141,7 +141,7 @@
     "name": "Binance-Peg ChainLink Token",
     "symbol": "LINK",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/link.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/link.png"
   },
   {
     "chainId": 56,
@@ -150,7 +150,7 @@
     "name": "Binance-Peg Bitcoin Cash Token",
     "symbol": "BCH",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/bch.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/bch.png"
   },
   {
     "chainId": 56,
@@ -159,7 +159,7 @@
     "name": "TRON",
     "symbol": "TRX",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/trx.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/trx.png"
   },
   {
     "chainId": 56,
@@ -168,7 +168,7 @@
     "name": "Binance-Peg Axie Infinity Shard Token",
     "symbol": "AXS",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/axs.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/axs.png"
   },
   {
     "chainId": 56,
@@ -177,7 +177,7 @@
     "name": "Binance-Peg NEAR Protocol",
     "symbol": "NEAR",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/near.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/near.png"
   },
   {
     "chainId": 56,
@@ -186,7 +186,7 @@
     "name": "Binance-Peg BTCB Token",
     "symbol": "BTCB",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/btc.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/btc.png"
   },
   {
     "chainId": 56,
@@ -195,7 +195,7 @@
     "name": "Binance-Peg Cosmos Token",
     "symbol": "ATOM",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/atom.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/atom.png"
   },
   {
     "chainId": 56,
@@ -204,7 +204,7 @@
     "name": "Binance-Peg Elrond Token",
     "symbol": "EGLD",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/egld.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/egld.png"
   },
   {
     "chainId": 56,
@@ -213,7 +213,7 @@
     "name": "Binance-Peg Ethereum Classic",
     "symbol": "ETC",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/etc.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/etc.png"
   },
   {
     "chainId": 56,
@@ -222,7 +222,7 @@
     "name": "Binance-Peg Tezos Token",
     "symbol": "XTZ",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/xtz.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/xtz.png"
   },
   {
     "chainId": 56,
@@ -231,7 +231,7 @@
     "name": "Fantom",
     "symbol": "FTM",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/ftm.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/ftm.png"
   },
   {
     "chainId": 56,
@@ -240,7 +240,7 @@
     "name": "pTokens GALA",
     "symbol": "GALA",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/gala.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/gala.png"
   },
   {
     "chainId": 56,
@@ -249,7 +249,7 @@
     "name": "Binance-Peg EOS Token",
     "symbol": "EOS",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/eos.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/eos.png"
   },
   {
     "chainId": 56,
@@ -258,7 +258,7 @@
     "name": "MIOTAC",
     "symbol": "IOTA",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/iota.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/iota.png"
   },
   {
     "chainId": 56,
@@ -267,7 +267,7 @@
     "name": "PancakeSwap Token",
     "symbol": "Cake",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/cake.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/cake.png"
   },
   {
     "chainId": 56,
@@ -276,7 +276,7 @@
     "name": "Binance-Peg FLOW Token",
     "symbol": "FLOW",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/flow.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/flow.png"
   },
   {
     "chainId": 56,
@@ -285,7 +285,7 @@
     "name": "Binance-Peg BitTorrent Token",
     "symbol": "BTT",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/btt.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/btt.png"
   },
   {
     "chainId": 56,
@@ -294,7 +294,7 @@
     "name": "Maker",
     "symbol": "MKR",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/mkr.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/mkr.png"
   },
   {
     "chainId": 56,
@@ -303,7 +303,7 @@
     "name": "Binance-Peg Zcash Token",
     "symbol": "ZEC",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/zec.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/zec.png"
   },
   {
     "chainId": 56,
@@ -312,7 +312,7 @@
     "name": "Binance-Peg eCash Token",
     "symbol": "XEC",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/xec.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/xec.png"
   },
   {
     "chainId": 56,
@@ -321,7 +321,7 @@
     "name": "Basic Attention Token",
     "symbol": "BAT",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/bat.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/bat.png"
   },
   {
     "chainId": 56,
@@ -330,7 +330,7 @@
     "name": "Frax",
     "symbol": "FRAX",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/frax.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/frax.png"
   },
   {
     "chainId": 56,
@@ -339,7 +339,7 @@
     "name": "Binance-Peg TrueUSD Token",
     "symbol": "TUSD",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/TUSD.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/TUSD.png"
   },
   {
     "chainId": 1,
@@ -348,7 +348,7 @@
     "name": "yearn.finance",
     "symbol": "YFI",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/yfi.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/yfi.png"
   },
   {
     "chainId": 56,
@@ -357,7 +357,7 @@
     "name": "IoTeX Network",
     "symbol": "IOTX",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/iotx.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/iotx.png"
   },
   {
     "chainId": 56,
@@ -366,7 +366,7 @@
     "name": "Binance-Peg Compound Coin",
     "symbol": "COMP",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/comp.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/comp.png"
   },
   {
     "chainId": 56,
@@ -375,7 +375,7 @@
     "name": "Pax Dollar",
     "symbol": "USDP",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/usdp.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/usdp.png"
   },
   {
     "chainId": 56,
@@ -384,7 +384,7 @@
     "name": "1INCH Token",
     "symbol": "1INCH",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/1inch.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/1inch.png"
   },
   {
     "chainId": 56,
@@ -393,7 +393,7 @@
     "name": "Binance-Peg Paxos Standard",
     "symbol": "PAX",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/usdp.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/usdp.png"
   },
   {
     "chainId": 56,
@@ -402,7 +402,7 @@
     "name": "SafeMoon",
     "symbol": "SAFEMOON",
     "decimals": 9,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/safemoon.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/safemoon.png"
   },
   {
     "chainId": 56,
@@ -411,7 +411,7 @@
     "name": "Ankr",
     "symbol": "ANKR",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/ankr.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/ankr.png"
   },
   {
     "chainId": 56,
@@ -420,7 +420,7 @@
     "name": "Zilliqa",
     "symbol": "ZIL",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/zil.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/zil.png"
   },
   {
     "chainId": 56,
@@ -429,7 +429,7 @@
     "name": "Bancor",
     "symbol": "BNT",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/bnt.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/bnt.png"
   },
   {
     "chainId": 56,
@@ -438,7 +438,7 @@
     "name": "Synthetix Network Token",
     "symbol": "SNX",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/snx.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/snx.png"
   },
   {
     "chainId": 56,
@@ -447,7 +447,7 @@
     "name": "Binance-Peg Ontology Token",
     "symbol": "ONT",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/ont.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/ont.png"
   },
   {
     "chainId": 56,
@@ -456,7 +456,7 @@
     "name": "Frax Share",
     "symbol": "FXS",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/fxs.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/fxs.png"
   },
   {
     "chainId": 56,
@@ -465,7 +465,7 @@
     "name": "wazirx token",
     "symbol": "WRX",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/wrx.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/wrx.png"
   },
   {
     "chainId": 56,
@@ -474,7 +474,7 @@
     "name": "Anyswap-BEP20",
     "symbol": "ANY",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/any.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/any.png"
   },
   {
     "chainId": 56,
@@ -483,7 +483,7 @@
     "name": "Binance-Peg Celer Token",
     "symbol": "CELR",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/celr.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/celr.png"
   },
   {
     "chainId": 56,
@@ -492,7 +492,7 @@
     "name": "JUST",
     "symbol": "JST",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/jst.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/jst.png"
   },
   {
     "chainId": 56,
@@ -501,7 +501,7 @@
     "name": "Coin98",
     "symbol": "C98",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/c98.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/c98.png"
   },
   {
     "chainId": 56,
@@ -510,7 +510,7 @@
     "name": "Binance-Peg PAX Gold",
     "symbol": "PAXG",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/paxg.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/paxg.png"
   },
   {
     "chainId": 56,
@@ -519,7 +519,7 @@
     "name": "Reef.finance",
     "symbol": "REEF",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/reef.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/reef.png"
   },
   {
     "chainId": 56,
@@ -528,7 +528,7 @@
     "name": "Binance-Peg Cartesi Token",
     "symbol": "CTSI",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/ctsi.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/ctsi.png"
   },
   {
     "chainId": 56,
@@ -537,7 +537,7 @@
     "name": "AlphaToken",
     "symbol": "ALPHA",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/alpha.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/alpha.png"
   },
   {
     "chainId": 56,
@@ -546,7 +546,7 @@
     "name": "Swipe",
     "symbol": "SXP",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/sxp.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/sxp.png"
   },
   {
     "chainId": 56,
@@ -555,7 +555,7 @@
     "name": "Binance-Peg COTI Token",
     "symbol": "COTI",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/coti.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/coti.png"
   },
   {
     "chainId": 56,
@@ -564,7 +564,7 @@
     "name": "Alien Worlds Trilium",
     "symbol": "TLM",
     "decimals": 4,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/tlm.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/tlm.png"
   },
   {
     "chainId": 56,
@@ -573,7 +573,7 @@
     "name": "BSC Conflux",
     "symbol": "bCFX",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/bcfx.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/bcfx.png"
   },
   {
     "chainId": 56,
@@ -582,7 +582,7 @@
     "name": "Trust Wallet",
     "symbol": "TWT",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/twt.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/twt.png"
   },
   {
     "chainId": 1,
@@ -591,6 +591,6 @@
     "name": "DODO bird",
     "symbol": "DODO",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/dodo.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/dodo.png"
   }
 ]

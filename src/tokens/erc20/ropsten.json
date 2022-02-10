@@ -6,7 +6,7 @@
     "name": "Tether USD",
     "symbol": "USDT",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/usdt.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/usdt.png"
   },
   {
     "chainId": 3,
@@ -15,7 +15,7 @@
     "name": "USD Coin",
     "symbol": "USDC",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/usdc.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/usdc.png"
   },
   {
     "chainId": 3,
@@ -24,7 +24,7 @@
     "name": "Wrapped BTC",
     "symbol": "WBTC",
     "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/wbtc.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/wbtc.png"
   },
   {
     "chainId": 3,
@@ -33,7 +33,7 @@
     "name": "Wrapped Ether",
     "symbol": "WETH",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/eth.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/eth.png"
   },
   {
     "chainId": 3,
@@ -42,7 +42,7 @@
     "name": "Compound",
     "symbol": "COMP",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/comp.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/comp.png"
   },
   {
     "chainId": 3,
@@ -51,7 +51,7 @@
     "name": "AAVE",
     "symbol": "AAVE",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/comp.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/comp.png"
   },
   {
     "chainId": 3,
@@ -60,6 +60,6 @@
     "name": "Dai Stablecoin",
     "symbol": "DAI",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/dai.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/dai.png"
   }
 ]

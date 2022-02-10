@@ -6,7 +6,7 @@
     "name": "Tether USD",
     "symbol": "USDT",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/usdt.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/usdt.png"
   },
   {
     "chainId": 10,
@@ -15,7 +15,7 @@
     "name": "USD Coin",
     "symbol": "USDC",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/usdc.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/usdc.png"
   },
   {
     "chainId": 10,
@@ -24,7 +24,7 @@
     "name": "ChainLink",
     "symbol": "LINK",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/link.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/link.png"
   },
   {
     "chainId": 10,
@@ -33,7 +33,7 @@
     "name": "Wrapped BTC",
     "symbol": "WBTC",
     "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/wbtc.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/wbtc.png"
   },
   {
     "chainId": 10,
@@ -42,7 +42,7 @@
     "name": "Dai Stablecoin",
     "symbol": "DAI",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/dai.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/dai.png"
   },
   {
     "chainId": 10,
@@ -51,7 +51,7 @@
     "name": "Synthetix Network Token",
     "symbol": "SNX",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/snx.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/snx.png"
   },
   {
     "chainId": 10,
@@ -60,7 +60,7 @@
     "name": "Rari Governance Token",
     "symbol": "RGT",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/rgt.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/rgt.png"
   },
   {
     "chainId": 10,
@@ -69,7 +69,7 @@
     "name": "Synth sETH",
     "symbol": "sETH",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/snx.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/snx.png"
   },
   {
     "chainId": 10,
@@ -78,7 +78,7 @@
     "name": "Synth sBTC",
     "symbol": "sBTC",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/snx.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/snx.png"
   },
   {
     "chainId": 10,
@@ -87,7 +87,7 @@
     "name": "Synth sUSD",
     "symbol": "sUSD",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/snx.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/snx.png"
   },
   {
     "chainId": 10,
@@ -96,6 +96,6 @@
     "name": "Synth sLINK",
     "symbol": "sLINK",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/snx.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/snx.png"
   }
 ]

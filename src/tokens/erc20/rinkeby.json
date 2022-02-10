@@ -6,7 +6,7 @@
     "name": "Wrapped Ether",
     "symbol": "WETH",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/eth.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/eth.png"
   },
   {
     "chainId": 4,
@@ -15,7 +15,7 @@
     "name": "Dai Stablecoin",
     "symbol": "DAI",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/dai.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/dai.png"
   },
   {
     "chainId": 4,
@@ -24,7 +24,7 @@
     "name": "Uniswap",
     "symbol": "UNI",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/uni.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/uni.png"
   },
   {
     "chainId": 4,
@@ -33,7 +33,7 @@
     "name": "SushiSwap",
     "symbol": "SUSHI",
     "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/sushi.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/sushi.png"
   },
   {
     "chainId": 4,
@@ -42,6 +42,6 @@
     "name": "ChainLink",
     "symbol": "LINK",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/link.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/link.png"
   }
 ]

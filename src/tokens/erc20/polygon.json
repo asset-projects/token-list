@@ -6,7 +6,7 @@
     "name": "Wrapped Ether",
     "symbol": "WETH",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/eth.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/eth.png"
   },
   {
     "chainId": 137,
@@ -15,7 +15,7 @@
     "name": "BNB",
     "symbol": "BNB",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/bnb.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/bnb.png"
   },
   {
     "chainId": 137,
@@ -24,7 +24,7 @@
     "name": "Tether USD",
     "symbol": "USDT",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/usdt.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/usdt.png"
   },
   {
     "chainId": 137,
@@ -33,7 +33,7 @@
     "name": "USD Coin",
     "symbol": "USDC",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/usdc.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/usdc.png"
   },
   {
     "chainId": 137,
@@ -42,7 +42,7 @@
     "name": "ChainLink",
     "symbol": "LINK",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/link.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/link.png"
   },
   {
     "chainId": 137,
@@ -51,7 +51,7 @@
     "name": "Uniswap",
     "symbol": "UNI",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/uni.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/uni.png"
   },
   {
     "chainId": 137,
@@ -60,7 +60,7 @@
     "name": "binance-usd",
     "symbol": "BUSD",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/busd.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/busd.png"
   },
   {
     "chainId": 137,
@@ -69,7 +69,7 @@
     "name": "Wrapped BTC",
     "symbol": "WBTC",
     "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/wbtc.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/wbtc.png"
   },
   {
     "chainId": 137,
@@ -78,7 +78,7 @@
     "name": "Dai Stablecoin",
     "symbol": "DAI",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/dai.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/dai.png"
   },
   {
     "chainId": 137,
@@ -87,7 +87,7 @@
     "name": "Aave",
     "symbol": "AAVE",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/aave.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/aave.png"
   },
   {
     "chainId": 137,
@@ -96,7 +96,7 @@
     "name": "Graph Token",
     "symbol": "GRT",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/grt.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/grt.png"
   },
   {
     "chainId": 137,
@@ -105,7 +105,7 @@
     "name": "Matic Token",
     "symbol": "MATIC",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/polygon.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/polygon.png"
   },
   {
     "chainId": 137,
@@ -114,7 +114,7 @@
     "name": "Crypto.com Coin",
     "symbol": "CRO",
     "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/cro.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/cro.png"
   },
   {
     "chainId": 137,
@@ -123,7 +123,7 @@
     "name": "Decentraland",
     "symbol": "MANA",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/mana.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/mana.png"
   },
   {
     "chainId": 137,
@@ -132,7 +132,7 @@
     "name": "SAND",
     "symbol": "SAND",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/sand.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/sand.png"
   },
   {
     "chainId": 137,
@@ -141,7 +141,7 @@
     "name": "Theta Token (PoS)",
     "symbol": "THETA",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/theta.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/theta.png"
   },
   {
     "chainId": 137,
@@ -150,7 +150,7 @@
     "name": "Fantom Token",
     "symbol": "FTM",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/ftm.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/ftm.png"
   },
   {
     "chainId": 137,
@@ -159,7 +159,7 @@
     "name": "Bitfinex LEO Token",
     "symbol": "LEO",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/leo.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/leo.png"
   },
   {
     "chainId": 137,
@@ -168,7 +168,7 @@
     "name": "LoopringCoin V2",
     "symbol": "LRC",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/lrc.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/lrc.png"
   },
   {
     "chainId": 137,
@@ -177,7 +177,7 @@
     "name": "Amp",
     "symbol": "Amp",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/amp.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/amp.png"
   },
   {
     "chainId": 137,
@@ -186,7 +186,7 @@
     "name": "EnjinCoin",
     "symbol": "ENJ",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/enj.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/enj.png"
   },
   {
     "chainId": 137,
@@ -195,7 +195,7 @@
     "name": "Aave (PoS)",
     "symbol": "AAVE",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/aave.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/aave.png"
   },
   {
     "chainId": 137,
@@ -204,7 +204,7 @@
     "name": "Maker",
     "symbol": "MKR",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/mkr.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/mkr.png"
   },
   {
     "chainId": 137,
@@ -213,7 +213,7 @@
     "name": "BAT",
     "symbol": "BAT",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/bat.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/bat.png"
   },
   {
     "chainId": 137,
@@ -222,7 +222,7 @@
     "name": "HoloToken",
     "symbol": "HOT",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/hot.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/hot.png"
   },
   {
     "chainId": 137,
@@ -231,7 +231,7 @@
     "name": "chiliZ",
     "symbol": "CHZ",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/chz.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/chz.png"
   },
   {
     "chainId": 137,
@@ -240,7 +240,7 @@
     "name": "CRV (PoS)",
     "symbol": "CRV",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/crv.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/crv.png"
   },
   {
     "chainId": 137,
@@ -249,7 +249,7 @@
     "name": "Celsius",
     "symbol": "CEL",
     "decimals": 4,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/cel.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/cel.png"
   },
   {
     "chainId": 137,
@@ -258,7 +258,7 @@
     "name": "HuobiToken",
     "symbol": "HT",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/ht.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/ht.png"
   },
   {
     "chainId": 137,
@@ -267,7 +267,7 @@
     "name": "(PoS) Compound",
     "symbol": "COMP",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/comp.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/comp.png"
   },
   {
     "chainId": 137,
@@ -276,7 +276,7 @@
     "name": "Frax",
     "symbol": "FRAX",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/frax.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/frax.png"
   },
   {
     "chainId": 137,
@@ -285,7 +285,7 @@
     "name": "TrueUSD",
     "symbol": "TUSD",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/tusd.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/tusd.png"
   },
   {
     "chainId": 137,
@@ -294,7 +294,7 @@
     "name": "Nexo",
     "symbol": "NEXO",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/nexo.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/nexo.png"
   },
   {
     "chainId": 137,
@@ -303,7 +303,7 @@
     "name": "Paxos Standard",
     "symbol": "PAX",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/pax.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/pax.png"
   },
   {
     "chainId": 137,
@@ -312,7 +312,7 @@
     "name": "SushiToken (PoS)",
     "symbol": "SUSHI",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/sushi.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/sushi.png"
   },
   {
     "chainId": 137,
@@ -321,7 +321,7 @@
     "name": "Synthetix Network Token (PoS)",
     "symbol": "SNX",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/snx.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/snx.png"
   },
   {
     "chainId": 137,
@@ -330,7 +330,7 @@
     "name": "1INCH",
     "symbol": "1INCH",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/1inchi.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/1inchi.png"
   },
   {
     "chainId": 137,
@@ -339,7 +339,7 @@
     "name": "IoTeX Network",
     "symbol": "IOTX",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/iotx.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/iotx.png"
   },
   {
     "chainId": 137,
@@ -348,7 +348,7 @@
     "name": "Livepeer Token",
     "symbol": "LPT",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/lpt.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/lpt.png"
   },
   {
     "chainId": 137,
@@ -357,7 +357,7 @@
     "name": "OMG Network",
     "symbol": "OMG",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/omg.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/omg.png"
   },
   {
     "chainId": 137,
@@ -366,7 +366,7 @@
     "name": "Bancor",
     "symbol": "BNT",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/bnt.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/bnt.png"
   },
   {
     "chainId": 137,
@@ -375,7 +375,7 @@
     "name": "(PoS) yearn.finance",
     "symbol": "YFI",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/yfi.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/yfi.png"
   },
   {
     "chainId": 137,
@@ -384,7 +384,7 @@
     "name": "renBTC",
     "symbol": "renBTC",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/renBTC.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/renBTC.png"
   },
   {
     "chainId": 137,
@@ -393,7 +393,7 @@
     "name": "ZRX",
     "symbol": "ZRX",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/zrx.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/zrx.png"
   },
   {
     "chainId": 137,
@@ -402,7 +402,7 @@
     "name": "Telcoin",
     "symbol": "TEL",
     "decimals": 2,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/tel.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/tel.png"
   },
   {
     "chainId": 137,
@@ -411,7 +411,7 @@
     "name": "Frax Share",
     "symbol": "FXS",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/fxs.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/fxs.png"
   },
   {
     "chainId": 137,
@@ -420,7 +420,7 @@
     "name": "Dogelon",
     "symbol": "ELON",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/elon.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/elon.png"
   },
   {
     "chainId": 137,
@@ -429,7 +429,7 @@
     "name": "Gnosis",
     "symbol": "GNO",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/gno.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/gno.png"
   },
   {
     "chainId": 137,
@@ -438,7 +438,7 @@
     "name": "SwissBorg",
     "symbol": "CHSB",
     "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/chsbs.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/chsbs.png"
   },
   {
     "chainId": 137,
@@ -447,7 +447,7 @@
     "name": "Serum",
     "symbol": "SRM",
     "decimals": 6,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/srm.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/srm.png"
   },
   {
     "chainId": 137,
@@ -456,7 +456,7 @@
     "name": "Ocean Token",
     "symbol": "OCEAN",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/ocean.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/ocean.png"
   },
   {
     "chainId": 137,
@@ -465,7 +465,7 @@
     "name": "Golem Network Token",
     "symbol": "GLM",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/glm.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/glm.png"
   },
   {
     "chainId": 137,
@@ -474,7 +474,7 @@
     "name": "Mask Network",
     "symbol": "MASK",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/mask.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/mask.png"
   },
   {
     "chainId": 137,
@@ -483,7 +483,7 @@
     "name": "Klima DAO",
     "symbol": "KLIMA",
     "decimals": 9,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/klima.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/klima.png"
   },
   {
     "chainId": 137,
@@ -492,7 +492,7 @@
     "name": "Fetch",
     "symbol": "FET",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/fet.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/fet.png"
   },
   {
     "chainId": 137,
@@ -501,7 +501,7 @@
     "name": "KEEP Token",
     "symbol": "KEEP",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/keep.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/keep.png"
   },
   {
     "chainId": 137,
@@ -510,7 +510,7 @@
     "name": "Paxos Gold",
     "symbol": "PAXG",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/paxg.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/paxg.png"
   },
   {
     "chainId": 137,
@@ -519,7 +519,7 @@
     "name": "HUSD",
     "symbol": "HUSD",
     "decimals": 8,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/husd.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/husd.png"
   },
   {
     "chainId": 137,
@@ -528,7 +528,7 @@
     "name": "OriginToken",
     "symbol": "OGN",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/ogn.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/ogn.png"
   },
   {
     "chainId": 137,
@@ -537,7 +537,7 @@
     "name": "Polymath",
     "symbol": "POLY",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/poly.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/poly.png"
   },
   {
     "chainId": 137,
@@ -546,7 +546,7 @@
     "name": "Gitcoin (PoS)",
     "symbol": "GTC",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/gtc.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/gtc.png"
   },
   {
     "chainId": 137,
@@ -555,7 +555,7 @@
     "name": "Balancer",
     "symbol": "BAL",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/bal.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/bal.png"
   },
   {
     "chainId": 137,
@@ -564,6 +564,6 @@
     "name": "JPY Coin(PoS)",
     "symbol": "JPYC",
     "decimals": 18,
-    "logoURI": "https://raw.githubusercontent.com/asset-project/token-list/main/public/jpyc.png"
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/jpyc.png"
   }
 ]
