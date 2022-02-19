@@ -30,6 +30,11 @@ describe('tokenList', () => {
     expect(tokenList()['binance-smart-chain'].ERC721).toHaveLength(0);
   });
 
+  it('avalanche', () => {
+    expect(tokenList()['avalanche'].ERC20).toBeDefined();
+    expect(tokenList()['avalanche'].ERC721).toHaveLength(0);
+  });
+
   // Test Network
   it('ropsten', () => {
     expect(tokenList().ropsten.ERC20).toBeDefined();

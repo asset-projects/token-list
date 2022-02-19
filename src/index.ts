@@ -20,6 +20,7 @@ import {
   GOERLI,
   ARBITRUM_TEST_NETWORK,
   OPTIMISTIC_ETHEREUM_KOVAN,
+  AVALANCHE,
 } from './parts';
 
 export const tokenList = (): EthereumTokenList => ({
@@ -34,6 +35,7 @@ export const tokenList = (): EthereumTokenList => ({
   goerli: GOERLI,
   'arbitrum-test-rinkeby': ARBITRUM_TEST_NETWORK,
   'optimistic-ethereum-kovan': OPTIMISTIC_ETHEREUM_KOVAN,
+  avalanche: AVALANCHE,
 });
 
 export {
@@ -42,6 +44,7 @@ export {
   ARBITRUM,
   POLYGON,
   BINANCE_SMART_CHAIN,
+  AVALANCHE,
   ROPSTEN,
   KOVAN,
   RINKEBY,

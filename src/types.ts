@@ -26,6 +26,7 @@ export type MainNetworkList = [
   'arbitrum',
   'polygon',
   'binance-smart-chain',
+  'avalanche',
 ];
 export type TestNetworkList = [
   'ropsten',

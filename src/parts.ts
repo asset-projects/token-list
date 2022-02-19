@@ -10,6 +10,7 @@ import RinkebyERC20Tokens from './tokens/erc20/rinkeby.json';
 import GoerliERC20Tokens from './tokens/erc20/goerli.json';
 import ArbitrumTestNetworkERC20Tokens from './tokens/erc20/arbitrum-testnet-rinkeby.json';
 import OptimisticEthereumKovanERC20Tokens from './tokens/erc20/optimistic-ethereum-kovan.json';
+import AvalancheERC20Tokens from './tokens/erc20/avalanche.json';
 
 /** ERC721 */
 import MainnetERC721Tokens from './tokens/erc721/mainnet.json';
@@ -35,6 +36,10 @@ export const POLYGON = {
 };
 export const BINANCE_SMART_CHAIN = {
   ERC20: BinanceSmartChainMainnnetERC20Tokens,
+  ERC721: [],
+};
+export const AVALANCHE = {
+  ERC20: AvalancheERC20Tokens,
   ERC721: [],
 };
 
