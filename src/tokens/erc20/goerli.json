@@ -1,6 +1,15 @@
 [
   {
     "chainId": 5,
+    "type": "FungibleToken",
+    "address": "0x0000000000000000000000000000000000000000",
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/eth.png"
+  },
+  {
+    "chainId": 5,
     "type": "ERC20",
     "address": "0xe583769738b6dd4e7caf8451050d1948be717679",
     "name": "Tether USD",

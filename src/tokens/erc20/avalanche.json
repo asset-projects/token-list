@@ -1,6 +1,15 @@
 [
   {
     "chainId": 43114,
+    "type": "FungibleToken",
+    "address": "0x0000000000000000000000000000000000000000",
+    "name": "Avalanche",
+    "symbol": "AVAX",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/eth.png"
+  },
+  {
+    "chainId": 43114,
     "type": "ERC20",
     "address": "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
     "name": "USD Coin",

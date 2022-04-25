@@ -1,6 +1,15 @@
 [
   {
     "chainId": 69,
+    "type": "FungibleToken",
+    "address": "0x0000000000000000000000000000000000000000",
+    "name": "Ether",
+    "symbol": "ETH",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/asset-projects/token-list/main/public/eth.png"
+  },
+  {
+    "chainId": 69,
     "type": "ERC20",
     "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
     "name": "Dai Stablecoin",
