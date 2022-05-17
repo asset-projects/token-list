@@ -10,10 +10,5 @@ module.exports = {
     ecmaVersion: 12,
   },
   plugins: ['@typescript-eslint'],
-  rules: {
-    'linebreak-style': ['error', 'unix'],
-    indent: ['error', 2],
-    quotes: ['error', 'single'],
-    semi: ['error', 'always'],
-  },
+  rules: {},
 };
