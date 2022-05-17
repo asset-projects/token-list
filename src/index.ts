@@ -1,13 +1,4 @@
-import type { EthereumTokenList } from './types';
-export type {
-  ERC20Token,
-  ERC721Token,
-  ERC20TokenList,
-  ERC721TokenList,
-  MainNetworkList,
-  TestNetworkList,
-  NetworkList,
-} from './types';
+export type { ERC20Token, ERC721Token } from './types';
 import {
   MAINNET,
   OPTIMISTIC_ETHEREUM,
@@ -23,20 +14,47 @@ import {
   AVALANCHE,
 } from './parts';
 
-export const tokenList = (): EthereumTokenList => ({
-  mainnet: MAINNET,
-  'optimistic-ethereum': OPTIMISTIC_ETHEREUM,
-  arbitrum: ARBITRUM,
-  polygon: POLYGON,
-  'binance-smart-chain': BINANCE_SMART_CHAIN,
-  ropsten: ROPSTEN,
-  kovan: KOVAN,
-  rinkeby: RINKEBY,
-  goerli: GOERLI,
-  'arbitrum-test-rinkeby': ARBITRUM_TEST_NETWORK,
-  'optimistic-ethereum-kovan': OPTIMISTIC_ETHEREUM_KOVAN,
-  avalanche: AVALANCHE,
-});
+export const getTokenList = (chainId: number) => {
+  switch (chainId) {
+    case 1:
+      return MAINNET;
+    case 3:
+      return ROPSTEN;
+    case 4:
+      return RINKEBY;
+    case 5:
+      return GOERLI;
+    case 42:
+      return KOVAN;
+    case 10:
+      return OPTIMISTIC_ETHEREUM;
+    case 69:
+      return OPTIMISTIC_ETHEREUM_KOVAN;
+    case 42161:
+      return ARBITRUM;
+    case 421611:
+      return ARBITRUM_TEST_NETWORK;
+    case 137:
+      return POLYGON;
+    case 56:
+      return BINANCE_SMART_CHAIN;
+    case 43114:
+      return AVALANCHE;
+    default:
+      return undefined;
+  }
+};
+
+export const getAllTokens = () => {
+  return {
+    ...MAINNET,
+    ...OPTIMISTIC_ETHEREUM,
+    ...ARBITRUM,
+    ...POLYGON,
+    ...BINANCE_SMART_CHAIN,
+    ...AVALANCHE,
+  };
+};
 
 export {
   MAINNET,

@@ -1,68 +1,84 @@
-import { tokenList } from '../src';
+import { getAllTokens, getTokenList } from '../src';
 
-describe('tokenList', () => {
-  it('Does the data exist?', () => {
-    expect(tokenList()).toBeDefined();
+describe('Test', () => {
+  it('result', () => {
+    expect(getTokenList(1)).toBeDefined();
+    expect(getAllTokens()).toBeDefined();
+
+    // Does not exist.
+    expect(getTokenList(111)).toBeUndefined();
   });
 
   it('mainnet', () => {
-    expect(tokenList().mainnet.ERC20).toBeDefined();
-    expect(tokenList().mainnet.ERC721).toBeDefined();
+    const token = getTokenList(1);
+    expect(token.ERC20).toBeDefined();
+    expect(token.ERC721).toBeDefined();
   });
 
   it('optimistic-ethereum', () => {
-    expect(tokenList()['optimistic-ethereum'].ERC20).toBeDefined();
-    expect(tokenList()['optimistic-ethereum'].ERC721).toBeDefined();
+    const token = getTokenList(10);
+    expect(token.ERC20).toBeDefined();
+    expect(token.ERC721).toBeDefined();
   });
 
   it('arbitrum', () => {
-    expect(tokenList().arbitrum.ERC20).toBeDefined();
-    expect(tokenList().arbitrum.ERC721).toBeDefined();
+    const token = getTokenList(42161);
+    expect(token.ERC20).toBeDefined();
+    expect(token.ERC721).toBeDefined();
   });
 
   it('polygon', () => {
-    expect(tokenList()['binance-smart-chain'].ERC20).toBeDefined();
-    expect(tokenList().polygon.ERC721).toBeDefined();
+    const token = getTokenList(137);
+    expect(token.ERC20).toBeDefined();
+    expect(token.ERC721).toBeDefined();
   });
 
   it('binance', () => {
-    expect(tokenList()['binance-smart-chain'].ERC20).toBeDefined();
-    expect(tokenList()['binance-smart-chain'].ERC721).toHaveLength(0);
+    const token = getTokenList(56);
+    expect(token.ERC20).toBeDefined();
+    expect(token.ERC721).toHaveLength(0);
   });
 
   it('avalanche', () => {
-    expect(tokenList()['avalanche'].ERC20).toBeDefined();
-    expect(tokenList()['avalanche'].ERC721).toHaveLength(0);
+    const token = getTokenList(43114);
+    expect(token.ERC20).toBeDefined();
+    expect(token.ERC721).toHaveLength(0);
   });
 
   // Test Network
   it('ropsten', () => {
-    expect(tokenList().ropsten.ERC20).toBeDefined();
-    expect(tokenList().ropsten.ERC721).toHaveLength(0);
+    const token = getTokenList(3);
+    expect(token.ERC20).toBeDefined();
+    expect(token.ERC721).toHaveLength(0);
   });
 
   it('kovan', () => {
-    expect(tokenList().kovan.ERC20).toBeDefined();
-    expect(tokenList().kovan.ERC721).toHaveLength(0);
+    const token = getTokenList(42);
+    expect(token.ERC20).toBeDefined();
+    expect(token.ERC721).toHaveLength(0);
   });
 
   it('rinkeby', () => {
-    expect(tokenList().rinkeby.ERC20).toBeDefined();
-    expect(tokenList().rinkeby.ERC721).toHaveLength(0);
+    const token = getTokenList(4);
+    expect(token.ERC20).toBeDefined();
+    expect(token.ERC721).toHaveLength(0);
   });
 
   it('goerli', () => {
-    expect(tokenList().goerli.ERC20).toBeDefined();
-    expect(tokenList().goerli.ERC721).toHaveLength(0);
+    const token = getTokenList(5);
+    expect(token.ERC20).toBeDefined();
+    expect(token.ERC721).toHaveLength(0);
   });
 
   it('arbitrum-test-rinkeby', () => {
-    expect(tokenList()['arbitrum-test-rinkeby'].ERC20).toBeDefined();
-    expect(tokenList()['arbitrum-test-rinkeby'].ERC721).toHaveLength(0);
+    const token = getTokenList(421611);
+    expect(token.ERC20).toBeDefined();
+    expect(token.ERC721).toHaveLength(0);
   });
 
   it('optimistic-ethereum-kovan', () => {
-    expect(tokenList()['optimistic-ethereum-kovan'].ERC20).toBeDefined();
-    expect(tokenList()['optimistic-ethereum-kovan'].ERC721).toHaveLength(0);
+    const token = getTokenList(69);
+    expect(token.ERC20).toBeDefined();
+    expect(token.ERC721).toHaveLength(0);
   });
 });
