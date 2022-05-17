@@ -16,31 +16,3 @@ export type ERC721Token = {
   symbol: string;
   logoURI: string;
 };
-
-export type ERC20TokenList = ERC20Token[];
-export type ERC721TokenList = ERC721Token[];
-
-export type MainNetworkList = [
-  'mainnet',
-  'optimistic-ethereum',
-  'arbitrum',
-  'polygon',
-  'binance-smart-chain',
-  'avalanche',
-];
-export type TestNetworkList = [
-  'ropsten',
-  'kovan',
-  'rinkeby',
-  'goerli',
-  'optimistic-ethereum-kovan',
-  'arbitrum-test-rinkeby',
-];
-export type NetworkList = [...MainNetworkList, ...TestNetworkList];
-
-export type EthereumTokenList = {
-  [key in NetworkList[number]]: {
-    ERC20: ERC20TokenList;
-    ERC721: ERC721TokenList;
-  };
-};
