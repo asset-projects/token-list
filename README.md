@@ -26,25 +26,49 @@ Support for Ethereum mainnet, optimistic-ethereum, arbitrum, polygon, and Other 
 # How to Use
 
 ```ts
-import { tokenList } from '@asset-projects/token-list';
+import { getTokenList } from '@asset-projects/token-list';
 
-console.log(tokenList().mainnet.ERC20);
+console.log(getTokenList(1).ERC20);
 // [{"chainId": 1, "type": "ERC20", "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599", "name": "Wrapped BTC", ...}]
 
-console.log(tokenList().mainnet.ERC721);
+console.log(getTokenList(1).ERC721);
 // [{"chainId": 1, "type": "ERC721", "address": "0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85", "name": "Ethereum Name Service", ...}]
 ```
 
 # Other imports
 
 ```ts
-import { MAINNET } from '@asset-projects/token-list';
+import { tokens } from '@asset-projects/token-list';
 
-console.log(MAINNET.ERC20);
-// [{"chainId": 1, "type": "ERC20", "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599", "name": "Wrapped BTC", ...}]
+console.log(tokens().filter((token) => token.chainId === 1 && token.symbol === 'DAI'));
+// [
+//   {
+//     chainId: 1,
+//     type: 'ERC20',
+//     address: '0x6b175474e89094c44da98b954eedeac495271d0f',
+//     name: 'Dai Stablecoin',
+//     symbol: 'DAI',
+//     decimals: 18,
+//     logoURI: 'https://raw.githubusercontent.com/asset-projects/token-list/main/public/dai.png'
+//   }
+// ]
 
-console.log(MAINNET.ERC721);
-// [{"chainId": 1, "type": "ERC721", "address": "0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85", "name": "Ethereum Name Service", ...}]
+console.log(
+  tokens().filter(
+    (token) =>
+      token.chainId === 1 && token.address === '0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85', // ENS
+  ),
+);
+// [
+//   {
+//     chainId: 1,
+//     type: 'ERC721',
+//     address: '0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85',
+//     name: 'Ethereum Name Service',
+//     symbol: 'ENS',
+//     logoURI: ''
+//   }
+// ]
 ```
 
 ## References
@@ -54,3 +78,7 @@ This project was created with reference to [uniswap/default-token-list](https://
 It was created because these projects lacked resources for L2 contract addresses such as optimism and arbitrum.
 
 Respect to these projects!
+
+## License
+
+MIT
