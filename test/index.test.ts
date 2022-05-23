@@ -1,9 +1,9 @@
-import { getAllTokens, getTokenList } from '../src';
+import { tokens, getTokenList } from '../src';
 
 describe('Test', () => {
   it('result', () => {
     expect(getTokenList(1)).toBeDefined();
-    expect(getAllTokens()).toBeDefined();
+    expect(tokens()).toBeDefined();
 
     // Does not exist.
     expect(getTokenList(111)).toBeUndefined();
