@@ -1,4 +1,4 @@
-export type { ERC20Token, ERC721Token } from './types';
+export * from './types';
 
 /** ERC20 */
 import EthereumERC20Tokens from './tokens/erc20/mainnet.json';

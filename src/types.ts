@@ -1,4 +1,4 @@
-export type ERC20Token = {
+export type FungibleToken = {
   chainId: number;
   type: string;
   address: string;
@@ -8,7 +8,7 @@ export type ERC20Token = {
   logoURI: string;
 };
 
-export type ERC721Token = {
+export type NonFungibleToken = {
   chainId: number;
   type: string;
   address: string;
