@@ -3,10 +3,11 @@
   "name": "@asset-projects/token-list",
   "description": "List of tokens on Ethereum and Ethereum-compatible chains",
   "author": "@asset-projects",
+  "license": "MIT",
+  "homepage": "https://github.com/asset-projects/token-list#readme",
   "bugs": {
     "url": "https://github.com/asset-projects/token-list/issues"
   },
-  "homepage": "https://github.com/asset-projects/token-list#readme",
   "keywords": [
     "asset-projects",
     "ethereum",
@@ -23,7 +24,6 @@
     "ERC1155",
     "NFT"
   ],
-  "license": "MIT",
   "main": "lib/src/index.js",
   "module": "esm/src/index.js",
   "types": "lib/src/index.d.ts",
@@ -49,21 +49,21 @@
     "@babel/preset-env": "^7.16.5",
     "@babel/preset-typescript": "^7.16.5",
     "@types/jest": "^27.0.3",
-    "@types/node": "^17.0.4",
-    "@typescript-eslint/eslint-plugin": "^5.8.0",
-    "@typescript-eslint/parser": "^5.8.0",
+    "@types/node": "^17.0.35",
+    "@typescript-eslint/eslint-plugin": "^5.26.0",
+    "@typescript-eslint/parser": "^5.26.0",
     "babel-jest": "^27.4.5",
-    "eslint": "^8.5.0",
-    "eslint-config-prettier": "^8.3.0",
+    "eslint": "^8.16.0",
+    "eslint-config-prettier": "^8.5.0",
     "husky": "^7.0.0",
     "jest": "^27.4.5",
-    "prettier": "^2.5.1",
+    "prettier": "^2.6.2",
     "semantic-release": "^19.0.2",
-    "ts-node": "^10.4.0",
+    "ts-node": "^10.8.0",
     "tslib": "^2.4.0",
-    "typescript": "4.5.4"
+    "typescript": "4.7.2"
   },
   "peerDependencies": {
-    "typescript": "4.5.4"
+    "typescript": "4.7.2"
   }
 }
