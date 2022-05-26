@@ -53,6 +53,8 @@
     "@typescript-eslint/eslint-plugin": "^5.26.0",
     "@typescript-eslint/parser": "^5.26.0",
     "babel-jest": "^27.4.5",
+    "commitizen": "^4.2.4",
+    "cz-conventional-changelog": "3.3.0",
     "eslint": "^8.16.0",
     "eslint-config-prettier": "^8.5.0",
     "husky": "^7.0.0",
@@ -65,5 +67,10 @@
   },
   "peerDependencies": {
     "typescript": "4.7.2"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }
