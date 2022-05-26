@@ -1,22 +1,21 @@
-name: Build
+name: Release npm package
 
 on:
   push:
-    branches: [main]
-  pull_request:
-    branches: [main]
+    branches:
+      - main
 
 jobs:
-  build:
+  release:
+    name: Release
     runs-on: ubuntu-latest
 
     strategy:
       matrix:
-        node-version: [14.x]
+        node-version: [16.x]
 
     steps:
       - uses: actions/checkout@v2
-
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v2
         with:
@@ -31,5 +30,8 @@ jobs:
 
       - name: Install dependencies
         run: yarn install --frozen-lockfile --prefer-offline
-      - name: Run Build
-        run: yarn build
+      - run: yarn build
+      - run: npx semantic-release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
