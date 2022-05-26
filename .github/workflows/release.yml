@@ -2,8 +2,7 @@ name: Release npm package
 
 on:
   push:
-    branches:
-      - main
+    branches: [main]
 
 jobs:
   release:
@@ -15,23 +14,24 @@ jobs:
         node-version: [16.x]
 
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+
       - name: Use Node.js ${{ matrix.node-version }}
         uses: actions/setup-node@v2
         with:
           node-version: ${{ matrix.node-version }}
 
-      - name: node_modules
-        uses: actions/cache@v2
-        with:
-          path: ~/.cache/yarn
-          key: ${{ runner.os }}-yarn-${{ hashFiles(format('{0}{1}', github.workspace, '/yarn.lock')) }}
-          restore-keys: ${{ runner.os }}-yarn-
-
       - name: Install dependencies
-        run: yarn install --frozen-lockfile --prefer-offline
-      - run: yarn build
-      - run: npx semantic-release --branches main
+        run: yarn install --frozen-lockfile
+
+      - name: Compile TypeScript
+        run: yarn build
+
+      - name: Release npm package
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+        run: npx semantic-release
