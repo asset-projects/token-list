@@ -3,7 +3,8 @@
 <!-- markdown-link-check-disable -->
 
 [![npm](https://img.shields.io/npm/v/@asset-projects/token-list)](https://unpkg.com/@asset-projects/token-list@latest/)[![Package size](https://badgen.net/bundlephobia/minzip/@asset-projects/token-list)](https://bundlephobia.com/package/@asset-projects/token-list)[![!License](https://badgen.net/npm/license/@asset-projects/token-balance)](https://github.com/asset-projects/token-balance/blob/main/LICENSE)
-[![Build](https://github.com/asset-projects/token-list/actions/workflows/build.yml/badge.svg)](https://github.com/asset-projects/token-list/actions/workflows/build.yml)[![Test](https://github.com/asset-projects/token-list/actions/workflows/node.js.yml/badge.svg)](https://github.com/asset-projects/token-list/actions/workflows/node.js.yml)[![Check Markdown links](https://github.com/asset-projects/token-list/actions/workflows/linkchecker.yml/badge.svg)](https://github.com/asset-projects/token-list/actions/workflows/linkchecker.yml)
+[![semantic-release: npm](https://img.shields.io/badge/semantic--release-npm-e10079?logo=semantic-release)](https://github.com/semantic-release/semantic-release)
+[![Release npm package](https://github.com/asset-projects/token-list/actions/workflows/release.yml/badge.svg)](https://github.com/asset-projects/token-list/actions/workflows/release.yml)[![Tests](https://github.com/asset-projects/token-list/actions/workflows/tests.yml/badge.svg)](https://github.com/asset-projects/token-list/actions/workflows/tests.yml)[![Check Markdown links](https://github.com/asset-projects/token-list/actions/workflows/linkchecker.yml/badge.svg)](https://github.com/asset-projects/token-list/actions/workflows/linkchecker.yml)
 
 <!-- markdown-link-check-enable -->
 
