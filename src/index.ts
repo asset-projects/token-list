@@ -6,12 +6,6 @@ import OptimisticEthereumERC20Tokens from './tokens/erc20/optimistic-ethereum.js
 import ArbitrumERC20Tokens from './tokens/erc20/arbitrum.json';
 import PolygonERC20Tokens from './tokens/erc20/polygon.json';
 import BinanceSmartChainMainnnetERC20Tokens from './tokens/erc20/binance-smart-chain-mainnet.json';
-import RopstenERC20Tokens from './tokens/erc20/ropsten.json';
-import KovanERC20Tokens from './tokens/erc20/ropsten.json';
-import RinkebyERC20Tokens from './tokens/erc20/rinkeby.json';
-import GoerliERC20Tokens from './tokens/erc20/goerli.json';
-import ArbitrumTestNetworkERC20Tokens from './tokens/erc20/arbitrum-testnet-rinkeby.json';
-import OptimisticEthereumKovanERC20Tokens from './tokens/erc20/optimistic-ethereum-kovan.json';
 import AvalancheERC20Tokens from './tokens/erc20/avalanche.json';
 
 /** ERC721 */
@@ -29,22 +23,22 @@ export const getTokenList = (chainId: number) => {
       };
     case 3:
       return {
-        ERC20: RopstenERC20Tokens,
+        ERC20: [],
         ERC721: [],
       };
     case 4:
       return {
-        ERC20: RinkebyERC20Tokens,
+        ERC20: [],
         ERC721: [],
       };
     case 5:
       return {
-        ERC20: GoerliERC20Tokens,
+        ERC20: [],
         ERC721: [],
       };
     case 42:
       return {
-        ERC20: KovanERC20Tokens,
+        ERC20: [],
         ERC721: [],
       };
     case 10:
@@ -54,7 +48,7 @@ export const getTokenList = (chainId: number) => {
       };
     case 69:
       return {
-        ERC20: OptimisticEthereumKovanERC20Tokens,
+        ERC20: [],
         ERC721: [],
       };
     case 42161:
@@ -64,7 +58,7 @@ export const getTokenList = (chainId: number) => {
       };
     case 421611:
       return {
-        ERC20: ArbitrumTestNetworkERC20Tokens,
+        ERC20: [],
         ERC721: [],
       };
     case 137:
