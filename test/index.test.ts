@@ -48,37 +48,37 @@ describe('Test', () => {
   // Test Network
   it('ropsten', () => {
     const token = getTokenList(3);
-    expect(token.ERC20).toBeDefined();
+    expect(token.ERC20).toHaveLength(0);
     expect(token.ERC721).toHaveLength(0);
   });
 
   it('kovan', () => {
     const token = getTokenList(42);
-    expect(token.ERC20).toBeDefined();
+    expect(token.ERC20).toHaveLength(0);
     expect(token.ERC721).toHaveLength(0);
   });
 
   it('rinkeby', () => {
     const token = getTokenList(4);
-    expect(token.ERC20).toBeDefined();
+    expect(token.ERC20).toHaveLength(0);
     expect(token.ERC721).toHaveLength(0);
   });
 
   it('goerli', () => {
     const token = getTokenList(5);
-    expect(token.ERC20).toBeDefined();
+    expect(token.ERC20).toHaveLength(0);
     expect(token.ERC721).toHaveLength(0);
   });
 
   it('arbitrum-test-rinkeby', () => {
     const token = getTokenList(421611);
-    expect(token.ERC20).toBeDefined();
+    expect(token.ERC20).toHaveLength(0);
     expect(token.ERC721).toHaveLength(0);
   });
 
   it('optimistic-ethereum-kovan', () => {
     const token = getTokenList(69);
-    expect(token.ERC20).toBeDefined();
+    expect(token.ERC20).toHaveLength(0);
     expect(token.ERC721).toHaveLength(0);
   });
 });
