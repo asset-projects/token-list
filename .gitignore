@@ -3,6 +3,5 @@ node_modules
 .npm
 
 # build
-esm
 lib
 coverage
