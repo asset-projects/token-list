@@ -1,12 +1,9 @@
 # @asset-projects/token-list
 
-<!-- markdown-link-check-disable -->
-
-[![semantic-release: npm](https://img.shields.io/badge/semantic--release-npm-e10079?logo=semantic-release)](https://github.com/semantic-release/semantic-release)
 [![npm](https://img.shields.io/npm/v/@asset-projects/token-list)](https://unpkg.com/@asset-projects/token-list@latest/)[![Package size](https://badgen.net/bundlephobia/minzip/@asset-projects/token-list)](https://bundlephobia.com/package/@asset-projects/token-list)[![!License](https://badgen.net/npm/license/@asset-projects/token-balance)](https://github.com/asset-projects/token-balance/blob/main/LICENSE)
-[![Release npm package](https://github.com/asset-projects/token-list/actions/workflows/release.yml/badge.svg)](https://github.com/asset-projects/token-list/actions/workflows/release.yml)[![Tests](https://github.com/asset-projects/token-list/actions/workflows/tests.yml/badge.svg)](https://github.com/asset-projects/token-list/actions/workflows/tests.yml)[![Check Markdown links](https://github.com/asset-projects/token-list/actions/workflows/linkchecker.yml/badge.svg)](https://github.com/asset-projects/token-list/actions/workflows/linkchecker.yml)
-
-<!-- markdown-link-check-enable -->
+[![Check Markdown links](https://github.com/asset-projects/token-list/actions/workflows/linkchecker.yml/badge.svg)](https://github.com/asset-projects/token-list/actions/workflows/linkchecker.yml)
+[![Tests](https://github.com/asset-projects/token-list/actions/workflows/tests.yml/badge.svg)](https://github.com/asset-projects/token-list/actions/workflows/tests.yml)
+[![release-please](https://github.com/asset-projects/token-list/actions/workflows/release-please.yml/badge.svg)](https://github.com/asset-projects/token-list/actions/workflows/release-please.yml)
 
 This library maintains a list of ERC20 tokens that exist on the ethereum mainnet, L2 and sidechain.
 
@@ -71,14 +68,6 @@ console.log(
 //   }
 // ]
 ```
-
-## References
-
-This project was created with reference to [uniswap/default-token-list](https://github.com/Uniswap/default-token-list) and [trustWallet/assets](https://github.com/trustwallet/assets).
-
-It was created because these projects lacked resources for L2 contract addresses such as optimism and arbitrum.
-
-Respect to these projects!
 
 ## License
 
