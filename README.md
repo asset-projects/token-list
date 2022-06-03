@@ -1,6 +1,7 @@
 # @asset-projects/token-list
 
 [![npm](https://img.shields.io/npm/v/@asset-projects/token-list)](https://unpkg.com/@asset-projects/token-list@latest/)[![Package size](https://badgen.net/bundlephobia/minzip/@asset-projects/token-list)](https://bundlephobia.com/package/@asset-projects/token-list)[![!License](https://badgen.net/npm/license/@asset-projects/token-balance)](https://github.com/asset-projects/token-balance/blob/main/LICENSE)
+
 [![Check Markdown links](https://github.com/asset-projects/token-list/actions/workflows/linkchecker.yml/badge.svg)](https://github.com/asset-projects/token-list/actions/workflows/linkchecker.yml)
 [![Tests](https://github.com/asset-projects/token-list/actions/workflows/tests.yml/badge.svg)](https://github.com/asset-projects/token-list/actions/workflows/tests.yml)
 [![release-please](https://github.com/asset-projects/token-list/actions/workflows/release-please.yml/badge.svg)](https://github.com/asset-projects/token-list/actions/workflows/release-please.yml)
