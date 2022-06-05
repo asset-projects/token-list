@@ -14,5 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@master
       - uses: gaurav-nelson/github-action-markdown-link-check@v1
-      with:
-        folder-path: 'src/tokens/erc20, src/tokens/erc721'
+        with:
+          use-quiet-mode: 'yes'
+          use-verbose-mode: 'yes'
+          folder-path: 'src/tokens/erc20, src/tokens/erc721'
