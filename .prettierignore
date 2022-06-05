@@ -1,5 +1,6 @@
 node_modules
+tsconfig.json
+.github/workflows/*
 esm
 lib
-tsconfig.json
 coverage
