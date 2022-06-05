@@ -1,5 +1,13 @@
 # Changelog
 
+## [4.2.1](https://github.com/asset-projects/token-list/compare/v4.2.0...v4.2.1) (2022-06-05)
+
+
+### Bug Fixes
+
+* linkchecker.yml ([9af2d36](https://github.com/asset-projects/token-list/commit/9af2d36a023657f16a97fd87bfcfaa27a7e25dfc))
+* linkchecker.yml ([9944975](https://github.com/asset-projects/token-list/commit/994497537c989316a17d8f93cda70e6678728fab))
+
 ## [4.2.0](https://github.com/asset-projects/token-list/compare/v4...v4.2.0) (2022-06-02)
 
 ### Features
