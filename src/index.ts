@@ -1,4 +1,5 @@
 export * from './types';
+import type { FungibleToken, NonFungibleToken } from './types';
 
 /** ERC20 */
 import EthereumERC20Tokens from './tokens/erc20/mainnet.json';
@@ -81,7 +82,7 @@ export const getTokenList = (chainId: number) => {
   }
 };
 
-export const tokens = () => {
+export const tokens = (): (FungibleToken | NonFungibleToken)[] => {
   return [
     ...EthereumERC20Tokens,
     ...EthereumNonFungibleTokens,
@@ -93,5 +94,5 @@ export const tokens = () => {
     ...PolygonNonFungibleTokens,
     ...BinanceSmartChainMainnnetERC20Tokens,
     ...AvalancheERC20Tokens,
-  ];
+  ] as (FungibleToken | NonFungibleToken)[];
 };
