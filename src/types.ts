@@ -1,6 +1,6 @@
 export type FungibleToken = {
   chainId: number;
-  type: string;
+  type: 'ERC20';
   address: string;
   name: string;
   symbol: string;
@@ -10,7 +10,7 @@ export type FungibleToken = {
 
 export type NonFungibleToken = {
   chainId: number;
-  type: string;
+  type: 'ERC721' | 'ERC1155';
   address: string;
   name: string;
   symbol: string;

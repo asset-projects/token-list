@@ -1,7 +1,7 @@
 [
   {
     "chainId": 10,
-    "type": "FungibleToken",
+    "type": "ERC20",
     "address": "0x0000000000000000000000000000000000000000",
     "name": "Ether",
     "symbol": "ETH",
