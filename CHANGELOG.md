@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.2.2](https://github.com/asset-projects/token-list/compare/v4.2.1...v4.2.2) (2022-06-07)
+
+
+### Bug Fixes
+
+* types ([89ee895](https://github.com/asset-projects/token-list/commit/89ee89596f451ebae3f0ec42f21fe3275c8cc158))
+
 ## [4.2.1](https://github.com/asset-projects/token-list/compare/v4.2.0...v4.2.1) (2022-06-05)
 
 
